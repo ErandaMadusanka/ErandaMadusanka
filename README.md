@@ -125,6 +125,13 @@ Joined Github **4** years ago.
   </tr>
 </table>
 
+### ⚙️ &nbsp;GitHub Analytics
+<p align="left">
+<img width="300px" src="https://github-readme-stats.vercel.app/api?username=ErandaMadusanka&show_icons=true&theme=ayu-mirage&count_private=true&hide_border=true" />   
+<img width="300px" src="https://streak-stats.demolab.com/?user=ErandaMadusanka&theme=monokai-metallian&hide_border=true"/>
+<img width="300px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ErandaMadusanka&layout=compact&langs_count=8&theme=algolia"/>
+<p/>
+
 <!--  <h2 align="center">Tools & Technologies ⚡</h2>
 <p align="center"> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="noreferrer"> <img src="./src/images/tech/js.png" alt="javascript" height="40"/> </a>  
@@ -158,12 +165,7 @@ Joined Github **4** years ago.
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-264%20hrs%2019%20mins-blue)
 
-### ⚙️ &nbsp;GitHub Analytics
-<p align="left">
-<img width="300px" src="https://github-readme-stats.vercel.app/api?username=ErandaMadusanka&show_icons=true&theme=ayu-mirage&count_private=true&hide_border=true" />   
-<img width="300px" src="https://streak-stats.demolab.com/?user=ErandaMadusanka&theme=monokai-metallian&hide_border=true"/>
-<img width="300px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ErandaMadusanka&layout=compact&langs_count=8&theme=algolia"/>
-<p/>
+
 
 <!---
 ErandaMadusanka/ErandaMadusanka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
