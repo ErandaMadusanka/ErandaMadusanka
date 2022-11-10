@@ -115,8 +115,8 @@ Joined Github **4** years ago.
 <br>
 <p align="left">
   <a href="https://github.com/LeonardoYz" target="_blank">
-    <img width="335em" src="https://streak-stats.demolab.com/?user=ErandaMadusanka&theme=monokai-metallian&hide_border=false"/>
-    <img width="335em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErandaMadusanka&layout=compact&theme=react" alt="Most Used Languages" />
+    <img width="382em" src="https://streak-stats.demolab.com/?user=ErandaMadusanka&theme=monokai-metallian&hide_border=false"/>
+    <img width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErandaMadusanka&layout=compact&theme=react" alt="Most Used Languages" />
   </a>
 </p>
 </details>
