@@ -39,13 +39,13 @@ Joined Github **4** years ago.
 ### 🛠 &nbsp;Tech Stack
 
 - Languages: &nbsp;
-  ![PHP](https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white)
+  ![PHP](https://img.shields.io/badge/PHP-05122A.svg?logo=php&logoColor=white)
   ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 
 - Frameworks and Libraries: &nbsp;
-  ![ASP.NET](https://img.shields.io/badge/Dot%20Net-21759B?logo=dotnet&logoColor=white)
+  ![ASP.NET](https://img.shields.io/badge/Dot%20Net-05122A?logo=dotnet&logoColor=white)
   ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=node.js)
