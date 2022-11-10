@@ -26,18 +26,18 @@ Like My Work? -->
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Nodejs, Express, React, <br /> Graphql, Mongodb, Javascript, etc.
+- 🛠 &nbsp; I’m currently working with C#, ASP.NET, Oracle, Bootstrap, JavaScript, etc.
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/ErandaMadusanka).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/iampavangandhi/iampavangandhi/issues/2)! I am happy to help.
-- 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
+<!-- - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript. -->
 - 📫 &nbsp; How to reach me: sem.samarasinghe@gmail.com.
 <!-- - 📝 &nbsp; Checkout my [Resume](https://github.com/iampavangandhi/iampavangandhi/blob/master/resume.pdf). -->
 
 ### My Absolute Favorites:
 
 - 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
-- 📰 &nbsp; Reading & writing tech blogs whenever possible.
+- 📰 &nbsp; Reading tech blogs whenever possible.
 - 🍕 &nbsp; Hackathons, meetups & tech events.
 
 <!-- ### Languages and Tools:
