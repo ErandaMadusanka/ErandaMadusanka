@@ -20,11 +20,11 @@
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
 	<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-		<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Noman Iqbal's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=thenomaniqbal&theme=monokai-metallian&hide_border=true"/></a>
+	<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Noman Iqbal's streak" src="https://github-readme-streak-				stats.herokuapp.com/?user=ErandaMadusanka&theme=monokai-metallian&hide_border=true"/></a>
 <p align="center"> If you can dream it, you can do it🔥 </p>
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ErandaMadusanka)](https://git.io/streak-stats)
 
 
 - 👋 Hi, I’m @ErandaMadusanka
