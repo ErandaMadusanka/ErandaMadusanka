@@ -2,11 +2,17 @@
 ##<img src="./src/gifs/hi.gif" width="29">
 
 ## About Me 🙂
-- *A passionate **web developer** who writes interesting **bugs***
-- *Specializes in **front-end development***
+- A passionate **web developer** who writes interesting **bugs***
+- *Specializes in **full-stack development***
 - ***Open-source** enthusiast*
 - *Trying and **exploring** new stuff*
-#### Checkout my [bio.link](https://haldaranup.bio.link) profile for more details.
+#### Checkout my [bio.link](https://bio.link) profile for more details.
+
+<h2 align="center">Statistics 📈 </h2>
+<p align="center">
+<img width="400px" src="https://github-readme-stats.vercel.app/api?username=haldaranup&show_icons=true&theme=tokyonight" />     
+<img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=haldaranup&show_icons=true&theme=tokyonight" />
+<p/>
 
 - 👋 Hi, I’m @ErandaMadusanka
 - 👀 I’m interested in ...
