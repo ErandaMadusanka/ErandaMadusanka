@@ -1,5 +1,11 @@
 ## Hey, I'm [Eranda](https://anuphaldar1.com/), Great to see you here!
 
+<!-- - 👋 Hi, I’m @ErandaMadusanka
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ... -->
+
 ## About Me
 <!-- - A passionate **web developer** who writes interesting **bugs***
 - *Specializes in **full-stack development***
@@ -22,11 +28,7 @@
 <!-- <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=ErandaMadusanka&show_icons=true&theme=monokai-metallian" /> -->
 <p/>
 
-- 👋 Hi, I’m @ErandaMadusanka
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
