@@ -3,15 +3,15 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/eranda-samarasinghe)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/eranda_madusank)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/eranda_samarasinghe/)
-<!-- [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/iampavangandhi) -->
+<!-- [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/eranda_samarasinghe) -->
 
 ### Glad to see you here! ![](https://visitor-badge.glitch.me/badge?page_id=ErandaMadusanka.ErandaMadusanka&style=flat-square&color=0088cc)
 
 <p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=ErandaMadusanka" alt="ErandaMadusanka"/>       
-    <a href="https://github.com/ErandaMadusanka/ErandaMadusanka/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/ErandaMadusanka/ErandaMadusanka" /></a>
+    <a href="https://github.com/ErandaMadusanka/ErandaMadusanka/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-               activity/m/ErandaMadusanka/ErandaMadusanka" /></a>
     <a href="https://github.com/ErandaMadusanka?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/ErandaMadusanka?color=4C1&logo=github"></a>
-    <a href="https://github.com/ErandaMadusanka/ErandaMadusanka" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/ErandaMadusanka/ErandaMadusanka?      label=Profile%20update&style=fflat-square"></a>
+    <a href="https://github.com/ErandaMadusanka/ErandaMadusanka" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/ErandaMadusanka/ErandaMadusanka?label=Profile%20update&style=fflat-square"></a>
 </p> 
 
 
