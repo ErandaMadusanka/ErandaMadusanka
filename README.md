@@ -66,6 +66,8 @@ Joined Github **4** years ago.
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=node.js)
 
+-data-flow architecture
+
 - Databases:  &nbsp;
   ![MongoDB Atlas](https://img.shields.io/badge/-MongoDB%20Atlas-05122A?style=flat&logo=mongodb)
   ![MySql](https://img.shields.io/badge/-MySql-05122A?style=flat&logo=mysql)
