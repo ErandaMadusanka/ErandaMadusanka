@@ -51,8 +51,8 @@ Joined Github **4** years ago.
   ![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=node.js)
   ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
 
-- data-flow architecture
-  ![Redux](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+<!-- - data-flow architecture
+  ![Redux](https://img.shields.io/badge/-React-05122A?style=flat&logo=react) -->
   
 - Databases & Cloud hosting:  &nbsp;
   ![Oracle](https://img.shields.io/badge/Oracle-05122A.svg?logo=oracle&logoColor=red)
