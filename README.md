@@ -9,10 +9,7 @@
 
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=ErandaMadusanka" alt="ErandaMadusanka"/>       
-    <a href="https://github.com/ErandaMadusanka?tab=repositories" target="_blank"><img src="https://badges.pufler.dev/repos/ErandaMadusanka" alt="Repos"/></a> 
     <img src="https://badges.pufler.dev/years/ErandaMadusanka" alt="Active_Years"/> 
-    <a href="https://github.com/ErandaMadusanka/ErandaMadusanka" target="_blank"><img src="https://badges.pufler.dev/commits/monthly/ErandaMadusanka" alt="commits"/>
-    <a href="https://github.com/ErandaMadusanka/ErandaMadusanka/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/ErandaMadusanka/ErandaMadusanka" /></a>
     <a href="https://github.com/ErandaMadusanka?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/ErandaMadusanka?color=4C1&logo=github"></a>
     <a href="https://github.com/ErandaMadusanka/ErandaMadusanka" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/ErandaMadusanka/ErandaMadusanka?label=Profile%20update&style=fflat-square"></a>
     <a href="https://github.com/ErandaMadusanka" target="_blank"><img alt="ErandaMadusanka" src="https://badges.pufler.dev/visits/ErandaMadusanka/ErandaMadusanka?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
