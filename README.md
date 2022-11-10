@@ -51,9 +51,9 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="left">
-<img width="400px" src="https://github-readme-stats.vercel.app/api?username=ErandaMadusanka&show_icons=true&theme=ayu-mirage&count_private=true&hide_border=true" />   
-<img width="400px" src="https://streak-stats.demolab.com/?user=ErandaMadusanka&theme=monokai-metallian&hide_border=true"/>
-<img width="400px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ErandaMadusanka&layout=compact&langs_count=8&theme=algolia"/>
+<img width="300px" src="https://github-readme-stats.vercel.app/api?username=ErandaMadusanka&show_icons=true&theme=ayu-mirage&count_private=true&hide_border=true" />   
+<img width="300px" src="https://streak-stats.demolab.com/?user=ErandaMadusanka&theme=monokai-metallian&hide_border=true"/>
+<img width="300px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ErandaMadusanka&layout=compact&langs_count=8&theme=algolia"/>
 <p/>
 
 
