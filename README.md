@@ -108,7 +108,7 @@ Joined Github **4** years ago.
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ### ⚙️ &nbsp;GitHub Analytics
-<p align="center">
+<p align="left">
 <img width="276" src="https://raw.githubusercontent.com/8BitJonny/8BitJonny/master/profile-summary-card-output/github_dark/3-stats.svg"> 
 <img width="570" src="https://raw.githubusercontent.com/8BitJonny/8BitJonny/master/profile-summary-card-output/github_dark/0-profile-details.svg">
 </p>
@@ -119,7 +119,7 @@ Joined Github **4** years ago.
   <span>𝗚𝗶𝘁𝗵𝘂𝗯 𝗦𝘁𝗮𝘁𝘀</span>
 </summary>
 <br>
-<p align="center">
+<p align="left">
   <a href="https://github.com/LeonardoYz" target="_blank">
     <img width="400em" src="https://streak-stats.demolab.com/?user=ErandaMadusanka&theme=monokai-metallian&hide_border=true"/>
     <img width="335em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoYz&layout=compact&theme=react" alt="Most Used Languages" />
