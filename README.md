@@ -67,15 +67,14 @@ Joined Github **4** years ago.
   ![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android-studio)
   
 - Version Control: &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
   ![GITHUB](https://img.shields.io/badge/GitHub-05122A?style=flat&logo=github)
   ![GITLAB](https://img.shields.io/badge/GitLab-05122A?style=flat&logo=gitlab)
-<!--  &logoColor=GitHub  &logoColor=GitLab -->
  
 <!-- - Software, Technologies and tools -->
 <!--   <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>  -->
 <!--   <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a> -->
 <!-- ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) -->
-
  
 ### Languages/Frameworks/IDEs I'm learning 
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=007ACC)
@@ -88,8 +87,6 @@ Joined Github **4** years ago.
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)
 ![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-05122A?style=flat&logo=intellij-idea&logoColor=f70486)
 ![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)
@@ -156,9 +153,7 @@ Joined Github **4** years ago.
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code> -->
 
-<!-- [![Kashyap's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=imkashyap&theme=tokyonight)](https://github.com/imkashyap/github-readme-stats)-->
-<!-- *** -->
-<!--START_SECTION:waka-->
+[![Kashyap's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=imkashyap&theme=tokyonight)](https://github.com/imkashyap/github-readme-stats)
 
 
 
