@@ -6,8 +6,8 @@
 <!-- [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/eranda_samarasinghe) -->
 
 ### Glad to see you here! 
-![](https://visitor-badge.glitch.me/badge?page_id=ErandaMadusanka.ErandaMadusanka&style=flat-square&color=0088cc)
-![](https://komarev.com/ghpvc/?username=ErandaMadusanka)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=ErandaMadusanka.ErandaMadusanka&style=flat-square&color=0088cc)
+![ProfileViews](https://komarev.com/ghpvc/?username=ErandaMadusanka)
 ![](https://github.com/ErandaMadusanka/ErandaMadusanka/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/ErandaMadusanka/ErandaMadusanka)
 ![](https://komarev.com/ghpvc/?username=ErandaMadusanka)
 ![](https://komarev.com/ghpvc/?username=ErandaMadusanka)
