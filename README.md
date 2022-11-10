@@ -5,9 +5,10 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/eranda_samarasinghe/)
 <!-- [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/iampavangandhi) -->
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=ErandaMadusanka.ErandaMadusanka&style=flat-square&color=0088cc)
+### Glad to see you here! 
 
 <p align="center"> 
+    ![](https://visitor-badge.glitch.me/badge?page_id=ErandaMadusanka.ErandaMadusanka&style=flat-square&color=0088cc)
     <img src="https://komarev.com/ghpvc/?username=ErandaMadusanka" alt="ErandaMadusanka"/>       
     <a href="https://github.com/ErandaMadusanka/ErandaMadusanka/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/ErandaMadusanka/ErandaMadusanka" /></a>
     <a href="https://github.com/ErandaMadusanka?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/ErandaMadusanka?color=4C1&logo=github"></a>
