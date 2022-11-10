@@ -98,6 +98,7 @@ Joined Github **4** years ago.
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 <a href="#"><img alt="OS-Linux" src="https://img.shields.io/badge/Linux-1793D1.svg?logo=linux&logoColor=white"></a>
+<a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="./src/images/tech/redux.png" alt="redux" height="40"/> </a> 
   
 ### ⚙️ &nbsp;GitHub Analytics
 <table style="width:100%">
