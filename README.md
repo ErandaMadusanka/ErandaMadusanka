@@ -10,6 +10,7 @@
 #### Checkout my [bio.link](www.linkedin.com/in/eranda-samarasinghe) profile for more details.
 
 <h2 align="center">Statistics 📈 </h2>
+## Statistics 📈
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=ErandaMadusanka&show_icons=true&theme=ayu-mirage&count_private=true&hide_border=true" />   
 <img src="https://streak-stats.demolab.com/?user=ErandaMadusanka&theme=monokai-metallian&hide_border=true"/>
