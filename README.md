@@ -113,19 +113,20 @@ Joined Github **4** years ago.
 
 <p align="center">
   <a href="https://github.com/LeonardoYz" target="_blank">
+    <img width="400em" src="https://streak-stats.demolab.com/?user=ErandaMadusanka&theme=monokai-metallian&hide_border=true"/>
     <img width="400em" src="https://github-readme-stats.vercel.app/api?username=LeonardoYz&show_icons=true&theme=react" alt="LeonardoYz's Stats" />
-    <img width="335em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoYz&layout=compact&theme=react" alt="Most Used Languages" />
+    <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoYz&layout=compact&theme=react" alt="Most Used Languages" />
   </a>
 </p>
-
-
 
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="left">
 <img width="300px" src="https://github-readme-stats.vercel.app/api?username=ErandaMadusanka&show_icons=true&theme=ayu-mirage&count_private=true&hide_border=true" />   
-<img width="300px" src="https://streak-stats.demolab.com/?user=ErandaMadusanka&theme=monokai-metallian&hide_border=true"/>
 <img width="300px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ErandaMadusanka&layout=compact&langs_count=8&theme=algolia"/>
 <p/>
+
+![Code Time](http://img.shields.io/badge/Code%20Time-264%20hrs%2019%20mins-blue)
+
 
 <!--  <h2 align="center">Tools & Technologies ⚡</h2>
 <p align="center"> 
@@ -158,7 +159,6 @@ Joined Github **4** years ago.
 <!-- [![Kashyap's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=imkashyap&theme=tokyonight)](https://github.com/imkashyap/github-readme-stats)-->
 <!-- *** -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-264%20hrs%2019%20mins-blue)
 
 
 
