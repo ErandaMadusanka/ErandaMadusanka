@@ -45,7 +45,8 @@ Joined Github **4** years ago.
 ### 🛠 &nbsp;Tech Stack
 
 - Languages: &nbsp;
-  ![c#](https://img.shields.io/badge/c#-05122A.svg?logo=c#&logoColor=C#)
+  ![C#](https://img.shields.io/badge/c-05122A.svg?style=flat&logo=C&logoColor=A8B9CC)
+  ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)
   ![PHP](https://img.shields.io/badge/PHP-05122A.svg?logo=php&logoColor=php)
   ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
