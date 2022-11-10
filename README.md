@@ -19,17 +19,6 @@
 ✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
 
-#### Checkout my [bio.link](www.linkedin.com/in/eranda-samarasinghe) profile for more details.
-
-### ⚙️ &nbsp;GitHub Analytics
-<p align="left">
-<img width="400px" src="https://github-readme-stats.vercel.app/api?username=ErandaMadusanka&show_icons=true&theme=ayu-mirage&count_private=true&hide_border=true" />   
-<img width="400px" src="https://streak-stats.demolab.com/?user=ErandaMadusanka&theme=monokai-metallian&hide_border=true"/>
-<!-- <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=ErandaMadusanka&show_icons=true&theme=monokai-metallian" /> -->
-<p/>
-
-
-
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
@@ -56,6 +45,19 @@
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
+
+#### Checkout my [bio.link](www.linkedin.com/in/eranda-samarasinghe) profile for more details.
+
+### ⚙️ &nbsp;GitHub Analytics
+<p align="left">
+<img width="400px" src="https://github-readme-stats.vercel.app/api?username=ErandaMadusanka&show_icons=true&theme=ayu-mirage&count_private=true&hide_border=true" />   
+<img width="400px" src="https://streak-stats.demolab.com/?user=ErandaMadusanka&theme=monokai-metallian&hide_border=true"/>
+<!-- <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=ErandaMadusanka&show_icons=true&theme=monokai-metallian" /> -->
+<p/>
+
+
+
+
 
 
 ### ⚙️ &nbsp;GitHub Analytics
