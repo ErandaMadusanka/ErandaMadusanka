@@ -11,12 +11,12 @@
 
 <h2 align="center">Statistics 📈 </h2>
 <p align="center">
-<img width="400px" src="https://github-readme-stats.vercel.app/api?username=haldaranup&show_icons=true&theme=tokyonight" />     
-<img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=haldaranup&show_icons=true&theme=tokyonight" />
+<img width="400px" src="https://github-readme-stats.vercel.app/api?username=ErandaMadusanka&show_icons=true&theme=tokyonight" />     
+<img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=ErandaMadusanka&show_icons=true&theme=tokyonight" />
 <p/>
 
-## 🔥 Streak Stats
-
+##  Streak Stats
+<h2 align="center">Streak Stats 🔥 </h2>
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
 	<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
