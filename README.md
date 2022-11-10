@@ -11,8 +11,8 @@
 
 <h2 align="center">Statistics 📈 </h2>
 <p align="center">
-<img width="400px" src="https://github-readme-stats.vercel.app/api?username=ErandaMadusanka&show_icons=true&theme=monokai-metallian" />     
-<img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=ErandaMadusanka&show_icons=true&theme=monokai-metallian" />
+<img  src="https://github-readme-stats.vercel.app/api?username=ErandaMadusanka&show_icons=true&theme=monokai-metallian" />     
+<!-- <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=ErandaMadusanka&show_icons=true&theme=monokai-metallian" /> -->
 <p/>
 
 <h2 align="center">Streak Stats 🔥 </h2>
