@@ -1,12 +1,18 @@
 ## Hey, I'm [Eranda](https://anuphaldar1.com/), Great to see you here!
-##<img src="./src/gifs/hi.gif" width="29">
-
 
 ## About Me
-- A passionate **web developer** who writes interesting **bugs***
+<!-- - A passionate **web developer** who writes interesting **bugs***
 - *Specializes in **full-stack development***
 - ***Open-source** enthusiast*
-- *Trying and **exploring** new stuff*
+- *Trying and **exploring** new stuff* -->
+💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\
+🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
+✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
+💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
+✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\
+📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
+
 #### Checkout my [bio.link](www.linkedin.com/in/eranda-samarasinghe) profile for more details.
 
 ### ⚙️ &nbsp;GitHub Analytics
