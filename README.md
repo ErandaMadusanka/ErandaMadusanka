@@ -1,3 +1,9 @@
+
+<!---
+ErandaMadusanka/ErandaMadusanka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
 ## Hey, I'm [Eranda](https://github.com/ErandaMadusanka), Great to see you here!
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/eranda-samarasinghe)
@@ -102,6 +108,7 @@ Joined Github **4** years ago.
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ### ⚙️ &nbsp;GitHub Analytics
+
 <!-- <p align="left">
 <img width="276" src="https://raw.githubusercontent.com/ErandaMadusanka/ErandaMadusanka/master/profile-summary-card-output/github_dark/3-stats.svg"> 
 <img width="570" src="https://raw.githubusercontent.com/ErandaMadusanka/ErandaMadusanka/master/profile-summary-card-output/github_dark/0-profile-details.svg">
@@ -126,35 +133,3 @@ Joined Github **4** years ago.
 
 ![Code Time](http://img.shields.io/badge/Code%20Time-264%20hrs%2019%20mins-blue)
 
-<!--  <h2 align="center">Tools & Technologies ⚡</h2>
-<p align="center"> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="noreferrer"> <img src="./src/images/tech/js.png" alt="javascript" height="40"/> </a>  
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="./src/images/tech/html5.png" alt="html5" height="40" /></a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="./src/images/tech/css3.png" alt="css3" height="40"/> </a> 
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="./src/images/tech/sass.png" alt="sass" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="./src/images/tech/react.png" alt="react" height="40"/> </a> 
-<a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="./src/images/tech/redux.png" alt="redux" height="40"/> </a> 
-<a href="https://mui.com" target="_blank" rel="noreferrer">  <img src="./src/images/tech/mui.png" title="Material UI" alt="Material UI" height="40" />&nbsp; </a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="./src/images/tech/nodejs.png" alt="nodejs" height="40"/> </a> 
-<a href="https://mongodb.com/" target="_blank" rel="noreferrer"> <img src="./src/images/tech/mongodb.png" alt="mongodb" height="40"/> </a> 
-<a href="https://typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="./src/images/tech/ts.png" alt="typescript" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="./src/images/tech/git.png" alt="git" height="40"/> </a>  
-</p> -->
-
-<!-- ### Languages and Tools:
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="expressjs"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" alt="graphql"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
-<code><img height="27" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code> -->
-
-<!---
-ErandaMadusanka/ErandaMadusanka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
