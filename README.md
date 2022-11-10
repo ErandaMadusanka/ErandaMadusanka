@@ -8,12 +8,10 @@
 ### Glad to see you here! 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=ErandaMadusanka.ErandaMadusanka&style=flat-square&color=0088cc)
 ![ProfileViews](https://komarev.com/ghpvc/?username=ErandaMadusanka)
+![ProfileViews](https://img.shields.io/github/commit-activity/m/milaan9/milaan9)
+
 
 <p align="center"> 
-    <img src="https://komarev.com/ghpvc/?username=milaan9" alt="milaan9"/>       
-    <!--<a href="https://github.com/milaan9?tab=repositories" target="_blank"><img src="https://badges.pufler.dev/repos/milaan9" alt="Repos"/></a>--> 
-    <!--<img src="https://badges.pufler.dev/years/milaan9" alt="Active_Years"/>-->  
-    <!--<a href="https://github.com/milaan9/milaan9" target="_blank"><img src="https://badges.pufler.dev/commits/monthly/milaan9" alt="commits"/>--> 
     <a href="https://github.com/milaan9/milaan9/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/milaan9/milaan9" /></a>
     <a href="https://github.com/milaan9?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/milaan9?color=4C1&logo=github"></a>
     <a href="https://github.com/milaan9/milaan9" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/milaan9/milaan9?label=Profile%20update&style=fflat-square"></a>
