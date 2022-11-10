@@ -54,12 +54,10 @@ Joined Github **4** years ago.
 - data-flow architecture
   ![Redux](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
   
-- Databases:  &nbsp;
+- Databases and Cloud hosting:  &nbsp;
   ![Oracle](https://img.shields.io/badge/Oracle-05122A.svg?logo=oracle&logoColor=red)
   ![MySql](https://img.shields.io/badge/-MySql-05122A?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/MongoDB-05122A.svg?logo=mongodb&logoColor=mongodb)
-  
-- Cloud hosting:  &nbsp;
   ![MongoDB Atlas](https://img.shields.io/badge/-MongoDB%20Atlas-05122A?style=flat&logo=mongodb)
   ![Heroku](https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white)
   
@@ -69,7 +67,7 @@ Joined Github **4** years ago.
   ![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android-studio)
   
 - Version Control: &nbsp;
-  ![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+  ![GITHUB](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
   ![GITLAB](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
   
   <a href="#"><img alt="" src=""></a>
