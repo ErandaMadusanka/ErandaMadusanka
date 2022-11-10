@@ -54,7 +54,7 @@ Joined Github **4** years ago.
   ![Redux](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
   
 - Databases and cloud hosting:  &nbsp;
-  ![Oracle](https://img.shields.io/badge/Oracle-F00000.svg?logo=oracle&logoColor=white)
+  ![Oracle](https://img.shields.io/badge/Oracle-05122A.svg?logo=oracle&logoColor=white)
   ![MySql](https://img.shields.io/badge/-MySql-05122A?style=flat&logo=mysql)
   ![MongoDB Atlas](https://img.shields.io/badge/-MongoDB%20Atlas-05122A?style=flat&logo=mongodb)
 
