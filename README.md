@@ -1,6 +1,5 @@
 ## Hey, I'm [Eranda](https://anuphaldar1.com/), Great to see you here!
 
-
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/iampavangandhi)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://iampavangandhi.github.io/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/iampavangandhi)
@@ -17,11 +16,13 @@ Since then I pushed **2424**+ commits, opened **229**+ issues, submitted **276**
 
 Like My Work?
 
+#### Checkout my [bio.link](www.linkedin.com/in/eranda-samarasinghe) profile for more details.
+
 <!-- <a href="https://www.buymeacoffee.com/iampavangandhi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a> -->
 <!-- [![](https://gitwar.herokuapp.com/badge?username=iampavangandhi&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" /> -->
-<img align="right" height="250" width="375" alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"/>
 
+<img align="right" height="250" width="375" alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"/>
 
 ### Talking about Personal Stuffs:
 
@@ -77,28 +78,12 @@ Like My Work?
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
 
-## About Me
-- A passionate **web developer** who writes interesting **bugs***
-- *Specializes in **full-stack development***
-- ***Open-source** enthusiast*
-- *Trying and **exploring** new stuff*
-
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
-#### Checkout my [bio.link](www.linkedin.com/in/eranda-samarasinghe) profile for more details.
-
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="left">
 <img width="300px" src="https://github-readme-stats.vercel.app/api?username=ErandaMadusanka&show_icons=true&theme=ayu-mirage&count_private=true&hide_border=true" />   
 <img width="300px" src="https://streak-stats.demolab.com/?user=ErandaMadusanka&theme=monokai-metallian&hide_border=true"/>
 <img width="300px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ErandaMadusanka&layout=compact&langs_count=8&theme=algolia"/>
 <p/>
-
 
 <!---
 ErandaMadusanka/ErandaMadusanka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
