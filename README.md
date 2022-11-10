@@ -54,7 +54,7 @@ Joined Github **4** years ago.
 - data-flow architecture
   ![Redux](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
   
-- Databases and Cloud hosting:  &nbsp;
+- Databases & Cloud hosting:  &nbsp;
   ![Oracle](https://img.shields.io/badge/Oracle-05122A.svg?logo=oracle&logoColor=red)
   ![MySql](https://img.shields.io/badge/-MySql-05122A?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/MongoDB-05122A.svg?logo=mongodb&logoColor=mongodb)
