@@ -1,4 +1,4 @@
-## Hey <img src="./src/gifs/hi.gif" width="29">, I'm [Anup](https://anuphaldar.com/), Great to see you here!
+## Hey <img src="./src/gifs/hi.gif" width="29">, I'm [Eranda](https://anuphaldar.com/), Great to see you here!
 
 ## About Me 🙂
 - *A passionate **web developer** who writes interesting **bugs***
