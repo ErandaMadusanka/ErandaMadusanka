@@ -67,8 +67,8 @@ Joined Github **4** years ago.
   ![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android-studio)
   
 - Version Control: &nbsp;
-  ![GITHUB](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
-  ![GITLAB](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
+  ![GITHUB](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=GitHub)
+  ![GITLAB](https://img.shields.io/badge/GitLab-330F63?style=flat&logo=gitlab&logoColor=GitLab)
   
   <a href="#"><img alt="" src=""></a>
 <!--   <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
