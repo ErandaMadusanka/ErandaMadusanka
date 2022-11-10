@@ -7,7 +7,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=ErandaMadusanka.ErandaMadusanka&style=flat-square&color=0088cc)
 
-<p align="center"> 
+<p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=milaan9" alt="milaan9"/>       
     <!--<a href="https://github.com/milaan9?tab=repositories" target="_blank"><img src="https://badges.pufler.dev/repos/milaan9" alt="Repos"/></a>--> 
     <!--<img src="https://badges.pufler.dev/years/milaan9" alt="Active_Years"/>-->  
