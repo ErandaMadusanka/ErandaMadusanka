@@ -58,11 +58,9 @@ Joined Github **4** years ago.
 
 - Languages: &nbsp;
   ![PHP](https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white)
-  ![PHP](https://github.com/search?q=user%3Athenomaniqbal+language%3Aphp)
   ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-
 
 - Frameworks: &nbsp;
   ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
