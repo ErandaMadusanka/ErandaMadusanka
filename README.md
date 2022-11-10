@@ -12,9 +12,9 @@ I'm a undergraduate in Computer Science 🎓 from UK Coventry University 🏛. I
 
 Joined Github **4** years ago.
 
-Since then I pushed **2424**+ commits, opened **229**+ issues, submitted **276**+ pull requests, created **20**+ gists and contributed to **24**+ public repositories.
+<!-- Since then I pushed **2424**+ commits, opened **229**+ issues, submitted **276**+ pull requests, created **20**+ gists and contributed to **24**+ public repositories.
 
-Like My Work?
+Like My Work? -->
 
 #### Checkout my [bio.link](www.linkedin.com/in/eranda-samarasinghe) profile for more details.
 
