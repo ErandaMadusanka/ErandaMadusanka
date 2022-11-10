@@ -7,10 +7,11 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=ErandaMadusanka.ErandaMadusanka&style=flat-square&color=0088cc)
 
-<p align="left"> 
+<p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=ErandaMadusanka" alt="ErandaMadusanka"/>       
-    <a href="https://github.com/ErandaMadusanka?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/ErandaMadusanka?                               color=4C1&logo=github"></a>
-    <a href="https://github.com/ErandaMadusanka/ErandaMadusanka" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-         commit/ErandaMadusanka/ErandaMadusanka?label=Profile%20update&style=fflat-square"></a>
+    <a href="https://github.com/ErandaMadusanka/ErandaMadusanka/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/ErandaMadusanka/ErandaMadusanka" /></a>
+    <a href="https://github.com/ErandaMadusanka?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/ErandaMadusanka?color=4C1&logo=github"></a>
+    <a href="https://github.com/ErandaMadusanka/ErandaMadusanka" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/ErandaMadusanka/ErandaMadusanka?      label=Profile%20update&style=fflat-square"></a>
 </p> 
 
 
