@@ -2,14 +2,14 @@
 ##<img src="./src/gifs/hi.gif" width="29">
 
 
-## About Me 🙂
+## About Me
 - A passionate **web developer** who writes interesting **bugs***
 - *Specializes in **full-stack development***
 - ***Open-source** enthusiast*
 - *Trying and **exploring** new stuff*
 #### Checkout my [bio.link](www.linkedin.com/in/eranda-samarasinghe) profile for more details.
 
-## Statistics 📈
+### ⚙️ &nbsp;GitHub Analytics
 <p align="left">
 <img width="400px" src="https://github-readme-stats.vercel.app/api?username=ErandaMadusanka&show_icons=true&theme=ayu-mirage&count_private=true&hide_border=true" />   
 <img width="400px" src="https://streak-stats.demolab.com/?user=ErandaMadusanka&theme=monokai-metallian&hide_border=true"/>
