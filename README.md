@@ -15,16 +15,13 @@
 <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=ErandaMadusanka&show_icons=true&theme=tokyonight" />
 <p/>
 
-##  Streak Stats
 <h2 align="center">Streak Stats 🔥 </h2>
-<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
 	<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
 		<img 
 		     title="🔥 Get streak stats for your profile at git.io/streak-stats" 
 		     alt="Noman Iqbal's streak" 
 		     src="https://streak-stats.demolab.com/?user=ErandaMadusanka&theme=monokai-metallian&hide_border=true"/>
-<!-- 		https://github-readme-streak-stats.herokuapp.com/?user=thenomaniqbal -->
 	</a>
 <p align="center"> If you can dream it, you can do it🔥 </p>
 </p>
