@@ -9,7 +9,7 @@
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=ErandaMadusanka.ErandaMadusanka&style=flat-square&color=0088cc)
 ![ProfileViews](https://komarev.com/ghpvc/?username=ErandaMadusanka)
 ![CommunityActivity](https://img.shields.io/github/commit-activity/m/ErandaMadusanka/ErandaMadusanka)
-![Followers](https://img.shields.io/github/commit-activity/m/milaan9/milaan9)
+![Followers](https://img.shields.io/github/commit-activity/m/ErandaMadusanka/ErandaMadusanka)
 
 
 
