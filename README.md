@@ -53,7 +53,7 @@
 <p align="left">
 <img width="400px" src="https://github-readme-stats.vercel.app/api?username=ErandaMadusanka&show_icons=true&theme=ayu-mirage&count_private=true&hide_border=true" />   
 <img width="400px" src="https://streak-stats.demolab.com/?user=ErandaMadusanka&theme=monokai-metallian&hide_border=true"/>
-<!-- <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=ErandaMadusanka&show_icons=true&theme=monokai-metallian" /> -->
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ErandaMadusanka&layout=compact&langs_count=8&theme=algolia"/>
 <p/>
 
 ### ⚙️ &nbsp;GitHub Analytics
@@ -61,7 +61,6 @@
 <p align="center">
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ErandaMadusanka&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ErandaMadusanka&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
