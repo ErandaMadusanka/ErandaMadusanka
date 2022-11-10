@@ -59,7 +59,7 @@ Joined Github **4** years ago.
   ![MySql](https://img.shields.io/badge/-MySql-05122A?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/MongoDB-05122A.svg?logo=mongodb&logoColor=mongodb)
   ![MongoDB Atlas](https://img.shields.io/badge/-MongoDB%20Atlas-05122A?style=flat&logo=mongodb)
-  ![Heroku](https://img.shields.io/badge/Heroku-05122A.svg?logo=heroku&logoColor=white)
+  ![Heroku](https://img.shields.io/badge/Heroku-05122A.svg?logo=heroku&logoColor=purple)
   
 - IDEs: &nbsp;
   ![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
