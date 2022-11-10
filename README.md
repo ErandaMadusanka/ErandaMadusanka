@@ -117,7 +117,7 @@ Joined Github **4** years ago.
 <br>
 <p align="left">
   <a href="https://github.com/LeonardoYz" target="_blank">
-    <img width="400em" src="https://streak-stats.demolab.com/?user=ErandaMadusanka&theme=monokai-metallian&hide_border=true"/>
+    <img width="400em" src="https://streak-stats.demolab.com/?user=ErandaMadusanka&theme=monokai-metallian&hide_border=false"/>
     <img width="335em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoYz&layout=compact&theme=react" alt="Most Used Languages" />
   </a>
 </p>
@@ -152,10 +152,6 @@ Joined Github **4** years ago.
 <code><img height="27" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code> -->
-
-[![Kashyap's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=imkashyap&theme=tokyonight)](https://github.com/imkashyap/github-readme-stats)
-
-
 
 <!---
 ErandaMadusanka/ErandaMadusanka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
