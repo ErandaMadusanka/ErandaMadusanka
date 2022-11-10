@@ -113,6 +113,8 @@ Joined Github **4** years ago.
 <img width="570" src="https://raw.githubusercontent.com/8BitJonny/8BitJonny/master/profile-summary-card-output/github_dark/0-profile-details.svg">
 </p>
 
+![Code Time](http://img.shields.io/badge/Code%20Time-264%20hrs%2019%20mins-blue)
+
 <details open="">
 <summary>
   <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25">
@@ -127,7 +129,6 @@ Joined Github **4** years ago.
 </p>
 </details>
 
-![Code Time](http://img.shields.io/badge/Code%20Time-264%20hrs%2019%20mins-blue)
 
 
 <!--  <h2 align="center">Tools & Technologies ⚡</h2>
