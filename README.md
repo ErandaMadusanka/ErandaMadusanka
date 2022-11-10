@@ -59,7 +59,7 @@ Joined Github **4** years ago.
   ![MySql](https://img.shields.io/badge/-MySql-05122A?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/MongoDB-05122A.svg?logo=mongodb&logoColor=white)
   
--cloud hosting
+- cloud hosting:  &nbsp;
   ![MongoDB Atlas](https://img.shields.io/badge/-MongoDB%20Atlas-05122A?style=flat&logo=mongodb)
   ![Heroku](https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white)
   
