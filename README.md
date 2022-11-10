@@ -68,8 +68,9 @@ Joined Github **4** years ago.
   
 - Version Control: &nbsp;
   ![GITHUB](https://img.shields.io/badge/GitHub-05122A?style=flat&logo=github)
-  ![GITLAB](https://img.shields.io/badge/GitLab-05122A?style=flat&logo=gitlab&logoColor=GitLab)
-<!--   <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a> -->
+  ![GITLAB](https://img.shields.io/badge/GitLab-05122A?style=flat&logo=gitlab)
+<!--  &logoColor=GitHub  &logoColor=GitLab -->
+<!--   <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>  -->
 <!--   <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a> -->
   
 ### 🔧 Software, Technologies and tools
