@@ -111,19 +111,12 @@ Joined Github **4** years ago.
 
 <img width="276" src="https://raw.githubusercontent.com/8BitJonny/8BitJonny/master/profile-summary-card-output/github_dark/3-stats.svg"> <img width="570" src="https://raw.githubusercontent.com/8BitJonny/8BitJonny/master/profile-summary-card-output/github_dark/0-profile-details.svg">
 
-<p align="center">
-  <a href="https://github.com/LeonardoYz" target="_blank">
-    <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErandaMadusanka&layout=compact&theme=react" alt="Most Used Languages" />
-  </a>
-</p>
-
 <details open="">
 <summary>
   <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25">
   <span>𝗚𝗶𝘁𝗵𝘂𝗯 𝗦𝘁𝗮𝘁𝘀</span>
 </summary>
 <br>
-
 <p align="center">
   <a href="https://github.com/LeonardoYz" target="_blank">
     <img width="400em" src="https://streak-stats.demolab.com/?user=ErandaMadusanka&theme=monokai-metallian&hide_border=true"/>
@@ -131,7 +124,6 @@ Joined Github **4** years ago.
   </a>
 </p>
 </details>
-
 ![Code Time](http://img.shields.io/badge/Code%20Time-264%20hrs%2019%20mins-blue)
 
 
