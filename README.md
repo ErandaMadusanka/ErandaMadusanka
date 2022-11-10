@@ -99,7 +99,7 @@ Joined Github **4** years ago.
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 <a href="#"><img alt="OS-Linux" src="https://img.shields.io/badge/Linux-1793D1.svg?logo=linux&logoColor=white"></a>
 
- <h2 align="center">Tools & Technologies ⚡</h2>
+<!--  <h2 align="center">Tools & Technologies ⚡</h2>
 <p align="center"> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="noreferrer"> <img src="./src/images/tech/js.png" alt="javascript" height="40"/> </a>  
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="./src/images/tech/html5.png" alt="html5" height="40" /></a>
@@ -112,7 +112,7 @@ Joined Github **4** years ago.
 <a href="https://mongodb.com/" target="_blank" rel="noreferrer"> <img src="./src/images/tech/mongodb.png" alt="mongodb" height="40"/> </a> 
 <a href="https://typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="./src/images/tech/ts.png" alt="typescript" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="./src/images/tech/git.png" alt="git" height="40"/> </a>  
-</p>
+</p> -->
 
   
 ### ⚙️ &nbsp;GitHub Analytics
