@@ -10,15 +10,7 @@
 ![](https://komarev.com/ghpvc/?username=ErandaMadusanka)
 ![](https://img.shields.io/github/commit-activity/m/ErandaMadusanka/ErandaMadusanka)
 ![](https://img.shields.io/github/followers/ErandaMadusanka?color=4C1&logo=github)
-
-
-
-<p align="center"> 
-<!--     <a href="https://github.com/milaan9/milaan9/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/milaan9/milaan9" /></a> -->
-    <a href="https://github.com/milaan9?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/milaan9?color=4C1&logo=github"></a>
-    <a href="https://github.com/milaan9/milaan9" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/milaan9/milaan9?label=Profile%20update&style=fflat-square"></a>
-</p> 
-
+![](https://img.shields.io/github/last-commit/milaan9/milaan9?label=Profile%20update&style=fflat-square)
 
 I'm a undergraduate in Computer Science 🎓 from UK Coventry University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️.
 
