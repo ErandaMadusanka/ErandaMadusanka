@@ -1,12 +1,13 @@
-## Hey, I'm [Eranda](https://anuphaldar.com/), Great to see you here!
+## Hey, I'm [Eranda](https://anuphaldar1.com/), Great to see you here!
 ##<img src="./src/gifs/hi.gif" width="29">
+
 
 ## About Me 🙂
 - A passionate **web developer** who writes interesting **bugs***
 - *Specializes in **full-stack development***
 - ***Open-source** enthusiast*
 - *Trying and **exploring** new stuff*
-#### Checkout my [bio.link](https://bio.link) profile for more details.
+#### Checkout my [bio.link](www.linkedin.com/in/eranda-samarasinghe) profile for more details.
 
 <h2 align="center">Statistics 📈 </h2>
 <p align="center">
