@@ -107,6 +107,11 @@ Joined Github **4** years ago.
 <img width="570" src="https://raw.githubusercontent.com/ErandaMadusanka/ErandaMadusanka/master/profile-summary-card-output/github_dark/0-profile-details.svg">
 </p>
 
+<img width="276" src="https://raw.githubusercontent.com/8BitJonny/8BitJonny/master/profile-summary-card-output/github_dark/3-stats.svg"> 
+<img width="570" src="https://raw.githubusercontent.com/8BitJonny/8BitJonny/master/profile-summary-card-output/github_dark/0-profile-details.svg">
+<img width="100%" src="https://github.com/8BitJonny/8BitJonny/raw/master/skills.svg">
+
+
 <details open="">
 <summary>
   <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25">
