@@ -9,12 +9,14 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=ErandaMadusanka.ErandaMadusanka&style=flat-square&color=0088cc)
 ![](https://komarev.com/ghpvc/?username=ErandaMadusanka)
 ![](https://img.shields.io/github/commit-activity/m/ErandaMadusanka/ErandaMadusanka)
+![](https://github.com/milaan9/milaan9/pulse)
 ![](https://img.shields.io/github/commit-activity/m/ErandaMadusanka/ErandaMadusanka)
 
 
 
+
 <p align="center"> 
-    <a href="https://github.com/milaan9/milaan9/pulse" alt="Activity"><img src="" /></a>
+    <a href="" alt="Activity"><img src="" /></a>
     <a href="https://github.com/milaan9?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/milaan9?color=4C1&logo=github"></a>
     <a href="https://github.com/milaan9/milaan9" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/milaan9/milaan9?label=Profile%20update&style=fflat-square"></a>
     <!--<a href="https://github.com/milaan9" target="_blank"><img alt="milaan9" src="https://badges.pufler.dev/visits/milaan9/milaan9?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>-->
