@@ -73,7 +73,7 @@ Joined Github **4** years ago.
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
-**🛠 &nbsp;Tech Stack**
+### 🛠 &nbsp;Tech Stack
 
 - Languages: &nbsp;
   ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=007ACC)
@@ -99,7 +99,7 @@ Joined Github **4** years ago.
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse)
   ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-333333?style=flat&logo=intellij-idea&logoColor=f70486)
 
-**⚙️ &nbsp;GitHub Analytics**
+### ⚙️ &nbsp;GitHub Analytics
 <table style="width:100%">
   <tr>
     <td> <img src="https://github-readme-stats.vercel.app/api?username=imkashyap&show_icons=true&theme=dark&locale=en&hide_border=true" alt="imkashyap" /></td>
