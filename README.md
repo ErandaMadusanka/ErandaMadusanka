@@ -5,7 +5,8 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/eranda_samarasinghe/)
 <!-- [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/eranda_samarasinghe) -->
 
-### Glad to see you here! ![](https://visitor-badge.glitch.me/badge?page_id=ErandaMadusanka.ErandaMadusanka&style=flat-square&color=0088cc)
+### Glad to see you here! 
+![](https://visitor-badge.glitch.me/badge?page_id=ErandaMadusanka.ErandaMadusanka&style=flat-square&color=0088cc)
 
 <p align="center"> 
     <a href="https://visitor-badge.glitch.me/badge?page_id=ErandaMadusanka.ErandaMadusanka&style=flat-square&color=0088cc"></a>
