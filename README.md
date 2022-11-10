@@ -73,6 +73,32 @@ Joined Github **4** years ago.
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
+**🛠 &nbsp;Tech Stack**
+
+- Languages: &nbsp;
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007ACC)
+  ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=Dart&logoColor=007ACC)
+  ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=Kotlin)
+
+- Frameworks: &nbsp;
+  ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter&logoColor=007ACC)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+  ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=node.js)
+
+- Databases:  &nbsp;
+  ![Firestore](https://img.shields.io/badge/-Firestore-333333?style=flat&logo=firebase)
+  ![MongoDB Atlas](https://img.shields.io/badge/-MongoDB%20Atlas-333333?style=flat&logo=mongodb)
+  ![MySql](https://img.shields.io/badge/-MySql-333333?style=flat&logo=mysql)
+
+- IDEs: &nbsp;
+  ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=android-studio)
+  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse)
+  ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-333333?style=flat&logo=intellij-idea&logoColor=f70486)
+
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="left">
 <img width="300px" src="https://github-readme-stats.vercel.app/api?username=ErandaMadusanka&show_icons=true&theme=ayu-mirage&count_private=true&hide_border=true" />   
