@@ -1,3 +1,12 @@
+## Hey <img src="./src/gifs/hi.gif" width="29">, I'm [Anup](https://anuphaldar.com/), Great to see you here!
+
+## About Me 🙂
+- *A passionate **web developer** who writes interesting **bugs***
+- *Specializes in **front-end development***
+- ***Open-source** enthusiast*
+- *Trying and **exploring** new stuff*
+#### Checkout my [bio.link](https://haldaranup.bio.link) profile for more details.
+
 - 👋 Hi, I’m @ErandaMadusanka
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
