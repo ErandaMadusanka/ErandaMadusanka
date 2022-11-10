@@ -18,10 +18,6 @@ Joined Github **4** years ago.
 
 #### Checkout my [bio.link](https://linkedin.com/in/eranda-samarasinghe) profile for more details.
 
-<a href="https://www.buymeacoffee.com/iampavangandhi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
-[![](https://gitwar.herokuapp.com/badge?username=iampavangandhi&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
-
 <img align="right" height="250" width="375" alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"/>
 
 ### Talking about Personal Stuffs:
@@ -48,13 +44,14 @@ Joined Github **4** years ago.
   ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 
-- Frameworks: &nbsp;
+- Frameworks and Libraries: &nbsp;
+  ![ASP.NET](https://img.shields.io/badge/Dot%20Net-21759B?logo=dotnet&logoColor=white)
   ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=node.js)
 
 - data-flow architecture
-  ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+  ![Redux](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
   
 - Databases:  &nbsp;
   ![MongoDB Atlas](https://img.shields.io/badge/-MongoDB%20Atlas-05122A?style=flat&logo=mongodb)
