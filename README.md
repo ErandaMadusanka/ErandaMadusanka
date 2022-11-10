@@ -39,7 +39,7 @@ Joined Github **4** years ago.
 ### 🛠 &nbsp;Tech Stack
 
 - Languages: &nbsp;
-  ![PHP](https://img.shields.io/badge/PHP-05122A.svg?logo=php&logoColor=white)
+  ![PHP](https://img.shields.io/badge/PHP-05122A.svg?logo=php&logoColor=php)
   ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
