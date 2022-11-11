@@ -55,22 +55,19 @@ Joined Github **4** years ago.
   ![ASP.NET](https://img.shields.io/badge/Dot%20Net-05122A.svg?logo=dotnet)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A.svg?&logo=bootstrap)
   ![React](https://img.shields.io/badge/-React-05122A.svg?&logo=react)
-  ![Express.js](https://img.shields.io/badge/Express.js-05122A.svg?logo=express)
+  ![Express.js](https://img.shields.io/badge/Express.js-05122A.svg?logo=express&logoColor=%2361DAFB)
   ![Node.js](https://img.shields.io/badge/-Node.js-05122A.svg?&logo=node.js)
   ![Redux](https://img.shields.io/badge/-Redux-05122A.svg?&logo=redux&logoColor=764abc)
 
-<!-- - data-flow architecture
-  ![Redux](https://img.shields.io/badge/-React-05122A?style=flat&logo=react) -->
-  
 - Databases & Cloud hosting:  &nbsp;
-  ![Oracle](https://img.shields.io/badge/Oracle-05122A.svg?logo=oracle&logoColor=red)
+  ![Oracle](https://img.shields.io/badge/Oracle-05122A.svg?logo=oracle&logoColor=f80000)
   ![MySql](https://img.shields.io/badge/-MySql-05122A.svg?&logo=mysql)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-05122A.svg?logo=mongodb&logoColor=mongodb)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-05122A.svg?logo=mongodb)
   ![MongoDB Atlas](https://img.shields.io/badge/-MongoDB%20Atlas-05122A.svg?&logo=mongodb)
   ![Heroku](https://img.shields.io/badge/Heroku-05122A.svg?logo=heroku&logoColor=6567a5)
   
 - IDEs: &nbsp;
-  ![VS Code](https://img.shields.io/badge/-VS%20Code-05122A.svg?&logo=visual-studio-code&logoColor=007ACC)
+  ![VS Code](https://img.shields.io/badge/-VS%20Code-05122A.svg?&logo=visual-studio-code)
   ![IDE-Visualstudio](https://img.shields.io/badge/Visual%20Studio-05122A.svg?logo=visual-studio-code&logoColor=007ACC)
   ![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A.svg?&logo=android-studio)
   
