@@ -56,7 +56,7 @@ Joined Github **4** years ago.
 - Frameworks, Platforms and Libraries: &nbsp;
   ![.Net](https://img.shields.io/badge/.NET-5C2D91?logo=.net&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A.svg?&logo=bootstrap)
-  ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?logo=jquery&logoColor=white)
+  ![jQuery](https://img.shields.io/badge/jquery-05122A.svg?logo=jquery&logoColor=%230769AD)
   ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?logo=WordPress&logoColor=white)
   ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?logo=npm&logoColor=white)
   ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?logo=mui&logoColor=white)
