@@ -75,6 +75,7 @@ Joined Github **4** years ago.
   ![Bitbucket](https://img.shields.io/badge/bitbucket-05122A.svg?logo=bitbucket&logoColor=007ACC)
   
 - IDEs: &nbsp;
+  ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?logo=notepad%2b%2b&logoColor=black)
   ![Atom](https://img.shields.io/badge/Atom-05122A.svg?logo=atom&logoColor=white)
   ![VS Code](https://img.shields.io/badge/-VS%20Code-05122A.svg?&logo=visual-studio-code&logoColor=007ACC)
   ![IDE-Visualstudio](https://img.shields.io/badge/Visual%20Studio-05122A.svg?logo=visual-studio-code&logoColor=5C2D91)
