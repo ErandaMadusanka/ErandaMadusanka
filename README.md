@@ -57,6 +57,7 @@ Joined Github **4** years ago.
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
   ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
   ![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=node.js)
+  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=&logo=express&logoColor=%2361DAFB)
   ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
   ![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux&logoColor=764abc)
 
