@@ -75,9 +75,9 @@ Joined Github **4** years ago.
   
 - Version Control: &nbsp;
   ![Git](https://img.shields.io/badge/-Git-05122A.svg?&logo=git)
-  ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
   ![GITHUB](https://img.shields.io/badge/GitHub-05122A.svg?&logo=github)
   ![GITLAB](https://img.shields.io/badge/GitLab-05122A.svg?&logo=gitlab)
+  ![Bitbucket](https://img.shields.io/badge/bitbucket-05122A.svg?logo=bitbucket&logoColor=white)
  
 <!-- - Software, Technologies and tools -->
 <!--   <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>  -->
