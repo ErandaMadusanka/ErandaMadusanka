@@ -95,7 +95,6 @@ Joined Github **4** years ago.
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A.svg?&logo=eclipse)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-05122A.svg?&logo=intellij-idea&logoColor=f70486)
 ![RStudio](https://img.shields.io/badge/-RStudio-05122A.svg?&logo=rstudio)
-![Eclipse](https://img.shields.io/badge/-Eclipse-05122A.svg?&logo=eclipse-ide&logoColor=2C2255)
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A.svg?&logo=adobe-illustrator)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A.svg?&logo=adobe-photoshop)
 
