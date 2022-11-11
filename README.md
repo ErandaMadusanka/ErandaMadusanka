@@ -97,7 +97,7 @@ Joined Github **4** years ago.
 ![Dart](https://img.shields.io/badge/-Dart-05122A.svg?&logo=Dart&logoColor=007ACC)
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A.svg?&logo=flutter&logoColor=007ACC)
 ![React Native](https://img.shields.io/badge/React%20Native-05122A.svg?logo=react&logoColor=%2361DAFB)
-![Python](https://img.shields.io/badge/-Python-05122A.svg?&logo=python)
+![Python](https://img.shields.io/badge/-Python-05122A.svg?&logo=python&logoColor=ffdd54)
 ![R (Statistics)](https://img.shields.io/badge/-R-05122A.svg?&logo=R&logoColor=276DC3)
 ![RStudio](https://img.shields.io/badge/-RStudio-05122A.svg?&logo=rstudio)
 ![Firestore](https://img.shields.io/badge/-Firestore-05122A.svg?&logo=firebase)
