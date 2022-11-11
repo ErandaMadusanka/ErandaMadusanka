@@ -53,10 +53,15 @@ Joined Github **4** years ago.
   ![CSS](https://img.shields.io/badge/-CSS-05122A.svg?&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A.svg?&logo=javascript)
 
-- Frameworks and Libraries: &nbsp;
+- Frameworks, Platforms and Libraries: &nbsp;
+- ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
   ![ASP.NET](https://img.shields.io/badge/Dot%20Net-05122A.svg?logo=dotnet)
+  ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A.svg?&logo=bootstrap)
+  ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+  ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
   ![React](https://img.shields.io/badge/-React-05122A.svg?&logo=react)
+  ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
   ![Express.js](https://img.shields.io/badge/Express.js-05122A.svg?logo=express&logoColor=%2361DAFB)
   ![Node.js](https://img.shields.io/badge/-Node.js-05122A.svg?&logo=node.js)
   ![Redux](https://img.shields.io/badge/-Redux-05122A.svg?&logo=redux&logoColor=764abc)
@@ -91,13 +96,13 @@ Joined Github **4** years ago.
 ![Kotlin](https://img.shields.io/badge/-Kotlin-05122A.svg?&logo=Kotlin)
 ![Dart](https://img.shields.io/badge/-Dart-05122A.svg?&logo=Dart&logoColor=007ACC)
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A.svg?&logo=flutter&logoColor=007ACC)
+![React Native](https://img.shields.io/badge/React%20Native-05122A.svg?logo=react&logoColor=%2361DAFB)
 ![Python](https://img.shields.io/badge/-Python-05122A.svg?&logo=python)
 ![R (Statistics)](https://img.shields.io/badge/-R-05122A.svg?&logo=R&logoColor=276DC3)
 ![RStudio](https://img.shields.io/badge/-RStudio-05122A.svg?&logo=rstudio)
 ![Firestore](https://img.shields.io/badge/-Firestore-05122A.svg?&logo=firebase)
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A.svg?&logo=adobe-illustrator)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A.svg?&logo=adobe-photoshop)
-![React Native](https://img.shields.io/badge/React%20Native-05122A.svg?logo=react&logoColor=%2361DAFB)
 
 <!-- ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A.svg?&logo=eclipse) -->
 <!-- ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-05122A.svg?&logo=intellij-idea&logoColor=f70486) -->
