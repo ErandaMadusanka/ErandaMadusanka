@@ -88,7 +88,6 @@ Joined Github **4** years ago.
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A.svg?&logo=flutter&logoColor=007ACC)
 ![Firestore](https://img.shields.io/badge/-Firestore-05122A.svg?&logo=firebase)
 ![Python](https://img.shields.io/badge/-Python-05122A.svg?&logo=python)
-![Java](https://img.shields.io/badge/-Java-05122A.svg?&logo=Java&logoColor=FFA518)
 ![C](https://img.shields.io/badge/-C-05122A.svg?&logo=C&logoColor=A8B9CC)
 ![C++](https://img.shields.io/badge/-C++-05122A.svg?&logo=C%2B%2B&logoColor=00599C)
 ![R (Statistics)](https://img.shields.io/badge/-R-05122A.svg?&logo=R&logoColor=276DC3)
@@ -97,7 +96,6 @@ Joined Github **4** years ago.
 ![RStudio](https://img.shields.io/badge/-RStudio-05122A.svg?&logo=rstudio)
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A.svg?&logo=adobe-illustrator)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A.svg?&logo=adobe-photoshop)
-
 
 <!-- <a href="#"><img alt="OS-Linux" src="https://img.shields.io/badge/Linux-1793D1.svg?logo=linux&logoColor=white"></a> -->
 
