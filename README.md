@@ -64,21 +64,21 @@ Joined Github **4** years ago.
   ![Redux](https://img.shields.io/badge/-React-05122A?style=flat&logo=react) -->
   
 - Databases & Cloud hosting:  &nbsp;
-  ![Oracle](https://img.shields.io/badge/Oracle-05122A.svg?logo=oracle&logoColor=red)
-  ![MySql](https://img.shields.io/badge/-MySql-05122A?style=flat&logo=mysql)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-05122A.svg?logo=mongodb&logoColor=mongodb)
-  ![MongoDB Atlas](https://img.shields.io/badge/-MongoDB%20Atlas-05122A?style=flat&logo=mongodb)
-  ![Heroku](https://img.shields.io/badge/Heroku-05122A.svg?logo=heroku&logoColor=6567a5)
+  ![Oracle](https://img.shields.io/badge/Oracle-05122A?logo=oracle&logoColor=red)
+  ![MySql](https://img.shields.io/badge/-MySql-05122A?flat&logo=mysql)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-05122A?logo=mongodb&logoColor=mongodb)
+  ![MongoDB Atlas](https://img.shields.io/badge/-MongoDB%20Atlas-05122A?flat&logo=mongodb)
+  ![Heroku](https://img.shields.io/badge/Heroku-05122A?logo=heroku&logoColor=6567a5)
   
 - IDEs: &nbsp;
-  ![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![IDE-Visualstudio](https://img.shields.io/badge/Visual%20Studio-05122A.svg?logo=visual-studio-code&logoColor=007ACC)
-  ![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android-studio)
+  ![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?flat&logo=visual-studio-code&logoColor=007ACC)
+  ![IDE-Visualstudio](https://img.shields.io/badge/Visual%20Studio-05122A?logo=visual-studio-code&logoColor=007ACC)
+  ![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?flat&logo=android-studio)
   
 - Version Control: &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-  ![GITHUB](https://img.shields.io/badge/GitHub-05122A?style=flat&logo=github)
-  ![GITLAB](https://img.shields.io/badge/GitLab-05122A?style=flat&logo=gitlab)
+  ![Git](https://img.shields.io/badge/-Git-05122A?flat&logo=git)
+  ![GITHUB](https://img.shields.io/badge/GitHub-05122A?flat&logo=github)
+  ![GITLAB](https://img.shields.io/badge/GitLab-05122A?flat&logo=gitlab)
  
 <!-- - Software, Technologies and tools -->
 <!--   <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>  -->
