@@ -77,7 +77,7 @@ Joined Github **4** years ago.
 - IDEs: &nbsp;
   ![Atom](https://img.shields.io/badge/Atom-05122A.svg?logo=atom&logoColor=white)
   ![VS Code](https://img.shields.io/badge/-VS%20Code-05122A.svg?&logo=visual-studio-code&logoColor=007ACC)
-  ![IDE-Visualstudio](https://img.shields.io/badge/Visual%20Studio-05122A.svg?logo=visual-studio-code&logoColor=007ACC)
+  ![IDE-Visualstudio](https://img.shields.io/badge/Visual%20Studio-05122A.svg?logo=visual-studio-code&logoColor=5C2D91)
   ![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A.svg?&logo=android-studio)
 
  
