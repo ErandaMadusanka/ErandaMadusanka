@@ -105,8 +105,7 @@ Joined Github **4** years ago.
 <!-- <a href="#"><img alt="OS-Linux" src=""></a> -->
 
 ### Operative System
-
-![Ubuntu](https://img.shields.io/badge/Linux-1793D1.svg?style=for-the-badge&logo=linux&logoColor=white)
+<!-- ![Ubuntu](https://img.shields.io/badge/Linux-1793D1.svg?style=for-the-badge&logo=linux&logoColor=white) -->
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
