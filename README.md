@@ -100,7 +100,7 @@ Joined Github **4** years ago.
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)
-![Photoshop](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=adobe-photoshop)
+![Photoshop](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)
 
 
 <!-- <a href="#"><img alt="OS-Linux" src="https://img.shields.io/badge/Linux-1793D1.svg?logo=linux&logoColor=white"></a> -->
