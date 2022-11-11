@@ -54,11 +54,11 @@ Joined Github **4** years ago.
   ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A.svg?&logo=javascript)
 
 - Frameworks, Platforms and Libraries: &nbsp;
-  ![.Net](https://img.shields.io/badge/.NET-05122A?logo=.net&logoColor=5C2D91)
+  ![.Net](https://img.shields.io/badge/.NET-5C2D91?logo=.net&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A.svg?&logo=bootstrap)
   ![jQuery](https://img.shields.io/badge/jquery-05122A.svg?logo=jquery&logoColor=%230769AD)
   ![WordPress](https://img.shields.io/badge/WordPress-05122A.svg?logo=WordPress&logoColor=%23117AC9)
-  ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?logo=npm&logoColor=white)
+  ![NPM](https://img.shields.io/badge/NPM-05122A.svg?logo=npm&logoColor=%23000000)
   ![MUI](https://img.shields.io/badge/MUI-05122A.svg?logo=mui&logoColor=%230081CB)
   ![React](https://img.shields.io/badge/-React-05122A.svg?&logo=react)
   ![Redux](https://img.shields.io/badge/-Redux-05122A.svg?&logo=redux&logoColor=764abc)
