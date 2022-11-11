@@ -63,7 +63,7 @@ Joined Github **4** years ago.
 
 - Databases & Cloud hosting:  &nbsp;
   ![Oracle](https://img.shields.io/badge/Oracle-05122A.svg?logo=oracle&logoColor=f80000)
-  ![MySql](https://img.shields.io/badge/-MySql-05122A.svg?&logo=mysql&logoColor=007ACC)
+  ![MySql](https://img.shields.io/badge/-MySql-05122A.svg?&logo=mysql&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-05122A.svg?logo=mongodb)
   ![MongoDB Atlas](https://img.shields.io/badge/-MongoDB%20Atlas-05122A.svg?&logo=mongodb)
   ![Heroku](https://img.shields.io/badge/Heroku-05122A.svg?logo=heroku&logoColor=6567a5)
