@@ -9,6 +9,7 @@ You can click the Preview link to take a look at your changes.
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/eranda-samarasinghe)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/eranda_madusank)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/eranda_samarasinghe/)
+![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
 <!-- [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/eranda_samarasinghe) -->
 
 ### Glad to see you here! 
@@ -17,6 +18,7 @@ You can click the Preview link to take a look at your changes.
 ![](https://img.shields.io/github/commit-activity/m/ErandaMadusanka/ErandaMadusanka)
 ![](https://img.shields.io/github/followers/ErandaMadusanka?color=4C1&logo=github)
 ![](https://img.shields.io/github/last-commit/milaan9/milaan9?label=Profile%20update&style=fflat-square)
+
 
 I'm a undergraduate in Computer Science 🎓 from UK Coventry University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️.
 
@@ -73,6 +75,7 @@ Joined Github **4** years ago.
   
 - Version Control: &nbsp;
   ![Git](https://img.shields.io/badge/-Git-05122A.svg?&logo=git)
+  ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
   ![GITHUB](https://img.shields.io/badge/GitHub-05122A.svg?&logo=github)
   ![GITLAB](https://img.shields.io/badge/GitLab-05122A.svg?&logo=gitlab)
  
@@ -128,5 +131,4 @@ Joined Github **4** years ago.
 </p>
 </details>
 
-![Code Time](http://img.shields.io/badge/Code%20Time-264%20hrs%2019%20mins-blue)
-
+<!-- ![Code Time](http://img.shields.io/badge/Code%20Time-264%20hrs%2019%20mins-blue) -->
