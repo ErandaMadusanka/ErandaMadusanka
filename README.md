@@ -117,14 +117,14 @@ Joined Github **4** years ago.
 <img width="570" src="https://raw.githubusercontent.com/ErandaMadusanka/ErandaMadusanka/master/profile-summary-card-output/github_dark/0-profile-details.svg">
 </p> -->
 
-<img width="276" src="https://raw.githubusercontent.com/8BitJonny/8BitJonny/master/profile-summary-card-output/github_dark/3-stats.svg"> 
-<img width="570" src="https://raw.githubusercontent.com/8BitJonny/8BitJonny/master/profile-summary-card-output/github_dark/0-profile-details.svg">
+<!-- <img width="276" src="https://raw.githubusercontent.com/8BitJonny/8BitJonny/master/profile-summary-card-output/github_dark/3-stats.svg">  -->
+<!-- <img width="570" src="https://raw.githubusercontent.com/8BitJonny/8BitJonny/master/profile-summary-card-output/github_dark/0-profile-details.svg"> -->
 
 <details open="">
-<summary>
+<!-- <summary>
   <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25">
   <span>𝗚𝗶𝘁𝗵𝘂𝗯 𝗦𝘁𝗮𝘁𝘀</span>
-</summary>
+</summary> -->
 <br>
 <p align="left">
   <a href="https://github.com/LeonardoYz" target="_blank">
