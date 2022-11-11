@@ -63,7 +63,7 @@ Joined Github **4** years ago.
 
 - Databases & Cloud hosting:  &nbsp;
   ![Oracle](https://img.shields.io/badge/Oracle-05122A.svg?logo=oracle&logoColor=f80000)
-  ![MySql](https://img.shields.io/badge/-MySql-05122A.svg?&logo=mysql&logoColor=white)
+  ![MySql](https://img.shields.io/badge/-MySql-05122A.svg?&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/MongoDB-05122A.svg?logo=mongodb)
   ![MongoDB Atlas](https://img.shields.io/badge/-MongoDB%20Atlas-05122A.svg?&logo=mongodb)
   ![Heroku](https://img.shields.io/badge/Heroku-05122A.svg?logo=heroku&logoColor=6567a5)
@@ -89,21 +89,23 @@ Joined Github **4** years ago.
 ![Kotlin](https://img.shields.io/badge/-Kotlin-05122A.svg?&logo=Kotlin)
 ![Dart](https://img.shields.io/badge/-Dart-05122A.svg?&logo=Dart&logoColor=007ACC)
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A.svg?&logo=flutter&logoColor=007ACC)
-![Firestore](https://img.shields.io/badge/-Firestore-05122A.svg?&logo=firebase)
 ![Python](https://img.shields.io/badge/-Python-05122A.svg?&logo=python)
-![C](https://img.shields.io/badge/-C-05122A.svg?&logo=C&logoColor=A8B9CC)
-![C++](https://img.shields.io/badge/-C++-05122A.svg?&logo=C%2B%2B&logoColor=00599C)
+
 ![R (Statistics)](https://img.shields.io/badge/-R-05122A.svg?&logo=R&logoColor=276DC3)
+![Firestore](https://img.shields.io/badge/-Firestore-05122A.svg?&logo=firebase)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A.svg?&logo=eclipse)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-05122A.svg?&logo=intellij-idea&logoColor=f70486)
 ![RStudio](https://img.shields.io/badge/-RStudio-05122A.svg?&logo=rstudio)
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A.svg?&logo=adobe-illustrator)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A.svg?&logo=adobe-photoshop)
 
-<!-- <a href="#"><img alt="OS-Linux" src="https://img.shields.io/badge/Linux-1793D1.svg?logo=linux&logoColor=white"></a> -->
+<!-- ![C](https://img.shields.io/badge/-C-05122A.svg?&logo=C&logoColor=A8B9CC) -->
+<!-- ![C++](https://img.shields.io/badge/-C++-05122A.svg?&logo=C%2B%2B&logoColor=00599C) -->
+<!-- <a href="#"><img alt="OS-Linux" src=""></a> -->
 
 ### Operative System
 
+![Ubuntu](https://img.shields.io/badge/Linux-1793D1.svg?style=for-the-badge&logo=linux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
