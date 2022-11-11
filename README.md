@@ -48,17 +48,17 @@ Joined Github **4** years ago.
   ![C#](https://img.shields.io/badge/-C#-05122A?flat&logo=C&logoColor=A8B9CC)
   ![C#](https://img.shields.io/badge/-C#-05122A?flat&logo=C%2B%2B&logoColor=00599C)
   ![PHP](https://img.shields.io/badge/PHP-05122A?logo=php&logoColor=php)
-  ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+  ![HTML](https://img.shields.io/badge/-HTML-05122A?flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-05122A?flat&logo=CSS3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?flat&logo=javascript)
 
 - Frameworks and Libraries: &nbsp;
   ![ASP.NET](https://img.shields.io/badge/Dot%20Net-05122A?logo=dotnet&logoColor=dotnet)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?flat&logo=bootstrap&logoColor=563D7C)
+  ![React](https://img.shields.io/badge/-React-05122A?flat&logo=react)
   ![Express.js](https://img.shields.io/badge/Express.js-05122A?logo=express&logoColor=%2361DAFB)
-  ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
-  ![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux&logoColor=764abc)
+  ![Node.js](https://img.shields.io/badge/-Node.js-05122A?flat&logo=node.js)
+  ![Redux](https://img.shields.io/badge/-Redux-05122A?flat&logo=redux&logoColor=764abc)
 
 <!-- - data-flow architecture
   ![Redux](https://img.shields.io/badge/-React-05122A?style=flat&logo=react) -->
