@@ -11,16 +11,12 @@ You can click the Preview link to take a look at your changes.
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/eranda_samarasinghe/)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat-square&logo=Facebook&logoColor=white)](https://facebook.com/eranda_samarasinghe/)
 
-![]()
-<!-- [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/eranda_samarasinghe) -->
-
 ### Glad to see you here! 
 ![](https://visitor-badge.glitch.me/badge?page_id=ErandaMadusanka.ErandaMadusanka&style=flat-square&color=0088cc)
 ![](https://komarev.com/ghpvc/?username=ErandaMadusanka)
 ![](https://img.shields.io/github/commit-activity/m/ErandaMadusanka/ErandaMadusanka)
 ![](https://img.shields.io/github/followers/ErandaMadusanka?color=4C1&logo=github)
 ![](https://img.shields.io/github/last-commit/milaan9/milaan9?label=Profile%20update&style=fflat-square)
-
 
 I'm a undergraduate in Computer Science 🎓 from UK Coventry University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️.
 
