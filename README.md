@@ -57,7 +57,7 @@ Joined Github **4** years ago.
   ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
   ![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=node.js)
   ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
-  ![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux&logoColor=727465)
+  ![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux&logoColor=764abc)
 
 <!-- - data-flow architecture
   ![Redux](https://img.shields.io/badge/-React-05122A?style=flat&logo=react) -->
