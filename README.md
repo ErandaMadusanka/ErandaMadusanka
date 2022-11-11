@@ -86,11 +86,11 @@ Joined Github **4** years ago.
   ![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A.svg?&logo=android-studio)
  
 - Others: &nbsp;
-  ![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white)
-  ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
-  ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-  ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+  ![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-05122A?logo=stack-overflow&logoColor=FE7A16)
+  ![ESLint](https://img.shields.io/badge/ESLint-05122A?logo=eslint&logoColor=4B3263)
+  ![Slack](https://img.shields.io/badge/Slack-05122A?logo=slack&logoColor=4A154B)
+  ![Postman](https://img.shields.io/badge/Postman-05122A?logo=postman&logoColor=FF6C37)
+  ![Apache](https://img.shields.io/badge/apache-05122A.svg?logo=apache&logoColor=%23D42029)
 <!--   ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853.svg?logo=google%20sheets&logoColor=white) -->
 
 
