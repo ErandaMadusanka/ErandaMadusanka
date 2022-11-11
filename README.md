@@ -45,39 +45,39 @@ Joined Github **4** years ago.
 ### 🛠 &nbsp;Tech Stack
 
 - Languages: &nbsp;
-  ![C#](https://img.shields.io/badge/c%23-05122A.svg?logo=c-sharp&logoColor=white)
+  ![C#](https://img.shields.io/badge/C%23-05122A.svg?logo=c-sharp&logoColor=white)
   ![PHP](https://img.shields.io/badge/PHP-05122A.svg?logo=php&logoColor=php)
   ![HTML](https://img.shields.io/badge/-HTML-05122A.svg?&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-05122A.svg?&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A.svg?&logo=javascript)
 
 - Frameworks and Libraries: &nbsp;
-  ![ASP.NET](https://img.shields.io/badge/Dot%20Net-05122A?logo=dotnet&logoColor=dotnet)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?flat&logo=bootstrap&logoColor=563D7C)
-  ![React](https://img.shields.io/badge/-React-05122A?flat&logo=react)
-  ![Express.js](https://img.shields.io/badge/Express.js-05122A?logo=express&logoColor=%2361DAFB)
-  ![Node.js](https://img.shields.io/badge/-Node.js-05122A?flat&logo=node.js)
-  ![Redux](https://img.shields.io/badge/-Redux-05122A?flat&logo=redux&logoColor=764abc)
+  ![ASP.NET](https://img.shields.io/badge/Dot%20Net-05122A.svg?logo=dotnet&logoColor=dotnet)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A.svg?&logo=bootstrap&logoColor=563D7C)
+  ![React](https://img.shields.io/badge/-React-05122A.svg?&logo=react)
+  ![Express.js](https://img.shields.io/badge/Express.js-05122A.svg?logo=express&logoColor=%2361DAFB)
+  ![Node.js](https://img.shields.io/badge/-Node.js-05122A.svg?&logo=node.js)
+  ![Redux](https://img.shields.io/badge/-Redux-05122A.svg?&logo=redux&logoColor=764abc)
 
 <!-- - data-flow architecture
   ![Redux](https://img.shields.io/badge/-React-05122A?style=flat&logo=react) -->
   
 - Databases & Cloud hosting:  &nbsp;
-  ![Oracle](https://img.shields.io/badge/Oracle-05122A?logo=oracle&logoColor=red)
-  ![MySql](https://img.shields.io/badge/-MySql-05122A?flat&logo=mysql)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-05122A?logo=mongodb&logoColor=mongodb)
-  ![MongoDB Atlas](https://img.shields.io/badge/-MongoDB%20Atlas-05122A?flat&logo=mongodb)
-  ![Heroku](https://img.shields.io/badge/Heroku-05122A?logo=heroku&logoColor=6567a5)
+  ![Oracle](https://img.shields.io/badge/Oracle-05122A.svg?logo=oracle&logoColor=red)
+  ![MySql](https://img.shields.io/badge/-MySql-05122A.svg?&logo=mysql)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-05122A.svg?logo=mongodb&logoColor=mongodb)
+  ![MongoDB Atlas](https://img.shields.io/badge/-MongoDB%20Atlas-05122A.svg?&logo=mongodb)
+  ![Heroku](https://img.shields.io/badge/Heroku-05122A.svg?logo=heroku&logoColor=6567a5)
   
 - IDEs: &nbsp;
-  ![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?flat&logo=visual-studio-code&logoColor=007ACC)
-  ![IDE-Visualstudio](https://img.shields.io/badge/Visual%20Studio-05122A?logo=visual-studio-code&logoColor=007ACC)
-  ![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?flat&logo=android-studio)
+  ![VS Code](https://img.shields.io/badge/-VS%20Code-05122A.svg?&logo=visual-studio-code&logoColor=007ACC)
+  ![IDE-Visualstudio](https://img.shields.io/badge/Visual%20Studio-05122A.svg?logo=visual-studio-code&logoColor=007ACC)
+  ![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A.svg?&logo=android-studio)
   
 - Version Control: &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-05122A?flat&logo=git)
-  ![GITHUB](https://img.shields.io/badge/GitHub-05122A?flat&logo=github)
-  ![GITLAB](https://img.shields.io/badge/GitLab-05122A?flat&logo=gitlab)
+  ![Git](https://img.shields.io/badge/-Git-05122A.svg?&logo=git)
+  ![GITHUB](https://img.shields.io/badge/GitHub-05122A.svg?&logo=github)
+  ![GITLAB](https://img.shields.io/badge/GitLab-05122A.svg?&logo=gitlab)
  
 <!-- - Software, Technologies and tools -->
 <!--   <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>  -->
