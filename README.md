@@ -67,37 +67,38 @@ Joined Github **4** years ago.
   ![MongoDB](https://img.shields.io/badge/MongoDB-05122A.svg?logo=mongodb)
   ![MongoDB Atlas](https://img.shields.io/badge/-MongoDB%20Atlas-05122A.svg?&logo=mongodb)
   ![Heroku](https://img.shields.io/badge/Heroku-05122A.svg?logo=heroku&logoColor=6567a5)
-  
-- IDEs: &nbsp;
-  ![VS Code](https://img.shields.io/badge/-VS%20Code-05122A.svg?&logo=visual-studio-code&logoColor=007ACC)
-  ![IDE-Visualstudio](https://img.shields.io/badge/Visual%20Studio-05122A.svg?logo=visual-studio-code&logoColor=007ACC)
-  ![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A.svg?&logo=android-studio)
-  
+    
 - Version Control: &nbsp;
   ![Git](https://img.shields.io/badge/-Git-05122A.svg?&logo=git)
   ![GITHUB](https://img.shields.io/badge/GitHub-05122A.svg?&logo=github)
   ![GITLAB](https://img.shields.io/badge/GitLab-05122A.svg?&logo=gitlab)
   ![Bitbucket](https://img.shields.io/badge/bitbucket-05122A.svg?logo=bitbucket&logoColor=007ACC)
+  
+- IDEs: &nbsp;
+  ![VS Code](https://img.shields.io/badge/-VS%20Code-05122A.svg?&logo=visual-studio-code&logoColor=007ACC)
+  ![IDE-Visualstudio](https://img.shields.io/badge/Visual%20Studio-05122A.svg?logo=visual-studio-code&logoColor=007ACC)
+  ![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A.svg?&logo=android-studio)
+
  
 <!-- - Software, Technologies and tools -->
 <!--   <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>  -->
 <!--   <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a> -->
 <!-- ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) -->
  
-### Languages/Frameworks/IDEs I'm learning 
+### Languages/Frameworks/IDEs/Softwares I'm learning 
 ![Java](https://img.shields.io/badge/-Java-05122A.svg?&logo=Java&logoColor=007ACC)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-05122A.svg?&logo=Kotlin)
 ![Dart](https://img.shields.io/badge/-Dart-05122A.svg?&logo=Dart&logoColor=007ACC)
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A.svg?&logo=flutter&logoColor=007ACC)
 ![Python](https://img.shields.io/badge/-Python-05122A.svg?&logo=python)
 ![R (Statistics)](https://img.shields.io/badge/-R-05122A.svg?&logo=R&logoColor=276DC3)
-![Firestore](https://img.shields.io/badge/-Firestore-05122A.svg?&logo=firebase)
-![Eclipse](https://img.shields.io/badge/-Eclipse-05122A.svg?&logo=eclipse)
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-05122A.svg?&logo=intellij-idea&logoColor=f70486)
 ![RStudio](https://img.shields.io/badge/-RStudio-05122A.svg?&logo=rstudio)
+![Firestore](https://img.shields.io/badge/-Firestore-05122A.svg?&logo=firebase)
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A.svg?&logo=adobe-illustrator)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A.svg?&logo=adobe-photoshop)
 
+<!-- ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A.svg?&logo=eclipse) -->
+<!-- ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-05122A.svg?&logo=intellij-idea&logoColor=f70486) -->
 <!-- ![C](https://img.shields.io/badge/-C-05122A.svg?&logo=C&logoColor=A8B9CC) -->
 <!-- ![C++](https://img.shields.io/badge/-C++-05122A.svg?&logo=C%2B%2B&logoColor=00599C) -->
 <!-- <a href="#"><img alt="OS-Linux" src=""></a> -->
