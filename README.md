@@ -55,16 +55,15 @@ Joined Github **4** years ago.
 
 - Frameworks, Platforms and Libraries: &nbsp;
   ![.Net](https://img.shields.io/badge/.NET-5C2D91?logo=.net&logoColor=white)
-  ![ASP.NET](https://img.shields.io/badge/Dot%20Net-05122A.svg?logo=dotnet)
-  ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A.svg?&logo=bootstrap)
-  ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-  ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+  ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?logo=jquery&logoColor=white)
+  ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?logo=WordPress&logoColor=white)
+  ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?logo=npm&logoColor=white)
+  ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?logo=mui&logoColor=white)
   ![React](https://img.shields.io/badge/-React-05122A.svg?&logo=react)
-  ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+  ![Redux](https://img.shields.io/badge/-Redux-05122A.svg?&logo=redux&logoColor=764abc)
   ![Express.js](https://img.shields.io/badge/Express.js-05122A.svg?logo=express&logoColor=%2361DAFB)
   ![Node.js](https://img.shields.io/badge/-Node.js-05122A.svg?&logo=node.js)
-  ![Redux](https://img.shields.io/badge/-Redux-05122A.svg?&logo=redux&logoColor=764abc)
 
 - Databases & Cloud hosting:  &nbsp;
   ![Oracle](https://img.shields.io/badge/Oracle-05122A.svg?logo=oracle&logoColor=f80000)
