@@ -54,7 +54,7 @@ Joined Github **4** years ago.
   ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A.svg?&logo=javascript)
 
 - Frameworks, Platforms and Libraries: &nbsp;
-- ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+  ![.Net](https://img.shields.io/badge/.NET-5C2D91?logo=.net&logoColor=white)
   ![ASP.NET](https://img.shields.io/badge/Dot%20Net-05122A.svg?logo=dotnet)
   ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A.svg?&logo=bootstrap)
