@@ -45,12 +45,11 @@ Joined Github **4** years ago.
 ### 🛠 &nbsp;Tech Stack
 
 - Languages: &nbsp;
-  ![C#](https://img.shields.io/badge/-C#-05122A?flat&logo=C&logoColor=A8B9CC)
-  ![C#](https://img.shields.io/badge/-C#-05122A?flat&logo=C%2B%2B&logoColor=00599C)
-  ![PHP](https://img.shields.io/badge/PHP-05122A?logo=php&logoColor=php)
-  ![HTML](https://img.shields.io/badge/-HTML-05122A?flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-05122A?flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?flat&logo=javascript)
+  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?logo=c-sharp&logoColor=white)
+  ![PHP](https://img.shields.io/badge/PHP-05122A.svg?logo=php&logoColor=php)
+  ![HTML](https://img.shields.io/badge/-HTML-05122A.svg?&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-05122A.svg?&logo=CSS3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A.svg?&logo=javascript)
 
 - Frameworks and Libraries: &nbsp;
   ![ASP.NET](https://img.shields.io/badge/Dot%20Net-05122A?logo=dotnet&logoColor=dotnet)
