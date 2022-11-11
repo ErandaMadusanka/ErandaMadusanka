@@ -80,7 +80,6 @@ Joined Github **4** years ago.
   ![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A.svg?&logo=visual-studio-code&logoColor=007ACC)
   ![IDE-Visualstudio](https://img.shields.io/badge/Visual%20Studio-05122A.svg?logo=visual-studio-code&logoColor=5C2D91)
   ![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A.svg?&logo=android-studio)
-
  
 <!-- - Software, Technologies and tools -->
 <!--   <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>  -->
@@ -98,7 +97,6 @@ Joined Github **4** years ago.
 ![Firestore](https://img.shields.io/badge/-Firestore-05122A.svg?&logo=firebase)
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A.svg?&logo=adobe-illustrator)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A.svg?&logo=adobe-photoshop)
-
 <!-- ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A.svg?&logo=eclipse) -->
 <!-- ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-05122A.svg?&logo=intellij-idea&logoColor=f70486) -->
 <!-- ![C](https://img.shields.io/badge/-C-05122A.svg?&logo=C&logoColor=A8B9CC) -->
@@ -120,18 +118,11 @@ Joined Github **4** years ago.
 <!-- <img width="276" src="https://raw.githubusercontent.com/8BitJonny/8BitJonny/master/profile-summary-card-output/github_dark/3-stats.svg">  -->
 <!-- <img width="570" src="https://raw.githubusercontent.com/8BitJonny/8BitJonny/master/profile-summary-card-output/github_dark/0-profile-details.svg"> -->
 
-<details open="">
-<!-- <summary>
-  <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25">
-  <span>𝗚𝗶𝘁𝗵𝘂𝗯 𝗦𝘁𝗮𝘁𝘀</span>
-</summary> -->
-<br>
 <p align="left">
   <a href="https://github.com/LeonardoYz" target="_blank">
     <img width="404px" src="https://streak-stats.demolab.com/?user=ErandaMadusanka&theme=monokai-metallian&hide_border=false"/>
     <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErandaMadusanka&layout=compact&theme=react" alt="Most Used Languages" />
   </a>
 </p>
-</details>
 
 <!-- ![Code Time](http://img.shields.io/badge/Code%20Time-264%20hrs%2019%20mins-blue) -->
