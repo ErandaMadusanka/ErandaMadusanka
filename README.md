@@ -118,7 +118,7 @@ Joined Github **4** years ago.
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-### ⚙️ &nbsp;GitHub Analytics
+<!-- ### ⚙️ &nbsp;GitHub Analytics -->
 
 <!-- <p align="left">
 <img width="276" src="https://raw.githubusercontent.com/ErandaMadusanka/ErandaMadusanka/master/profile-summary-card-output/github_dark/3-stats.svg"> 
