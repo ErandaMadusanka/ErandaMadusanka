@@ -95,14 +95,15 @@ Joined Github **6** years ago.
 
  
 ### Languages/Frameworks/IDEs/Softwares I'm learning 
-![Java](https://img.shields.io/badge/-Java-05122A.svg?&logo=Java&logoColor=007ACC)
+
 ![Kotlin](https://img.shields.io/badge/-Kotlin-05122A.svg?&logo=Kotlin)
-![Dart](https://img.shields.io/badge/-Dart-05122A.svg?&logo=Dart&logoColor=007ACC)
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A.svg?&logo=flutter&logoColor=007ACC)
 ![React Native](https://img.shields.io/badge/React%20Native-05122A.svg?logo=react&logoColor=%2361DAFB)
 ![Firebase](https://img.shields.io/badge/-Firestore-05122A.svg?&logo=firebase)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A.svg?&logo=adobe-photoshop)
 <!-- ![Python](https://img.shields.io/badge/-Python-05122A.svg?&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/-Java-05122A.svg?&logo=Java&logoColor=007ACC)
+![Dart](https://img.shields.io/badge/-Dart-05122A.svg?&logo=Dart&logoColor=007ACC)
 ![R (Statistics)](https://img.shields.io/badge/-R-05122A.svg?&logo=R&logoColor=276DC3)
 ![RStudio](https://img.shields.io/badge/-RStudio-05122A.svg?&logo=rstudio)
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A.svg?&logo=adobe-illustrator)-->
