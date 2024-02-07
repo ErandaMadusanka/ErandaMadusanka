@@ -128,11 +128,11 @@ Joined Github **4** years ago.
 <!-- <img width="276" src="https://raw.githubusercontent.com/8BitJonny/8BitJonny/master/profile-summary-card-output/github_dark/3-stats.svg">  -->
 <!-- <img width="570" src="https://raw.githubusercontent.com/8BitJonny/8BitJonny/master/profile-summary-card-output/github_dark/0-profile-details.svg"> -->
 
-<p align="left">
+<!-- <p align="left">
   <a href="https://github.com/ErandaMadusanka" target="_blank">
     <img width="404px" src="https://streak-stats.demolab.com/?user=ErandaMadusanka&theme=monokai-metallian&hide_border=false"/>
     <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErandaMadusanka&layout=compact&theme=react" alt="Most Used Languages" />
   </a>
-</p>
+</p> -->
 
 <!-- ![Code Time](http://img.shields.io/badge/Code%20Time-264%20hrs%2019%20mins-blue) -->
