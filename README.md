@@ -57,7 +57,7 @@ Joined Github **4** years ago.
   ![MUI (Material-UI)](https://img.shields.io/badge/MUI-05122A.svg?logo=mui&logoColor=%230081CB)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A.svg?&logo=bootstrap)
 
-- Platforms
+- Platforms: &nbsp;
   ![Node.js](https://img.shields.io/badge/-Node.js-05122A.svg?&logo=node.js)
   ![Express.js](https://img.shields.io/badge/Express.js-05122A.svg?logo=express&logoColor=%2361DAFB)
   ![.Net](https://img.shields.io/badge/.NET-5C2D91?logo=.net&logoColor=white)
