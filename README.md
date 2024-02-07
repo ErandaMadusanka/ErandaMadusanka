@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 
 I'm a undergraduate in Computer Science 🎓 from UK Coventry University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️.
 
-Joined Github **4** years ago.
+Joined Github **6** years ago.
 
 #### Checkout my [bio.link](https://linkedin.com/in/eranda-samarasinghe) profile for more details.
 
