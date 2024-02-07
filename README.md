@@ -85,10 +85,11 @@ Joined Github **6** years ago.
  
 - Others: &nbsp;
   ![Postman](https://img.shields.io/badge/Postman-05122A?logo=postman&logoColor=FF6C37)
-  ![Apache](https://img.shields.io/badge/apache-05122A.svg?logo=apache&logoColor=%23D42029)
   ![ESLint](https://img.shields.io/badge/ESLint-05122A?logo=eslint&logoColor=4B3263)
   ![Slack](https://img.shields.io/badge/Slack-05122A?logo=slack&logoColor=4A154B)
   ![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-05122A?logo=stack-overflow&logoColor=FE7A16)
+
+  <!--![Apache](https://img.shields.io/badge/apache-05122A.svg?logo=apache&logoColor=%23D42029) -->
   
 <!--   ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853.svg?logo=google%20sheets&logoColor=white) -->
 
