@@ -51,19 +51,17 @@ Joined Github **4** years ago.
   ![PHP](https://img.shields.io/badge/PHP-05122A.svg?logo=php&)
   ![C#](https://img.shields.io/badge/C%23-05122A.svg?logo=c-sharp)
 
-- Frameworks, Platforms and Libraries: &nbsp;
-- ![React](https://img.shields.io/badge/-React-05122A.svg?&logo=react)
+- Frameworks and Libraries: &nbsp;
+  ![React](https://img.shields.io/badge/-React-05122A.svg?&logo=react)
   ![Redux](https://img.shields.io/badge/-Redux-05122A.svg?&logo=redux&logoColor=764abc)
-  ![MUI](https://img.shields.io/badge/MUI-05122A.svg?logo=mui&logoColor=%230081CB)
-  ![Express.js](https://img.shields.io/badge/Express.js-05122A.svg?logo=express&logoColor=%2361DAFB)
-  ![Node.js](https://img.shields.io/badge/-Node.js-05122A.svg?&logo=node.js)
-  ![NPM](https://img.shields.io/badge/NPM-05122A.svg?logo=npm&logoColor=%23000000)
-  ![.Net](https://img.shields.io/badge/.NET-5C2D91?logo=.net&logoColor=white)
+  ![MUI (Material-UI)](https://img.shields.io/badge/MUI-05122A.svg?logo=mui&logoColor=%230081CB)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A.svg?&logo=bootstrap)
-  ![jQuery](https://img.shields.io/badge/jquery-05122A.svg?logo=jquery&logoColor=%230769AD)
-  ![WordPress](https://img.shields.io/badge/WordPress-05122A.svg?logo=WordPress&logoColor=%23117AC9)
-  
 
+- Platforms
+  ![Node.js](https://img.shields.io/badge/-Node.js-05122A.svg?&logo=node.js)
+  ![Express.js](https://img.shields.io/badge/Express.js-05122A.svg?logo=express&logoColor=%2361DAFB)
+  ![.Net](https://img.shields.io/badge/.NET-5C2D91?logo=.net&logoColor=white)
+  
 - Databases & Cloud hosting:  &nbsp;
   ![Oracle](https://img.shields.io/badge/Oracle-05122A.svg?logo=oracle&logoColor=f80000)
   ![MySql](https://img.shields.io/badge/-MySql-05122A.svg?&logo=mysql)
