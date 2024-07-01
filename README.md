@@ -28,19 +28,19 @@ Joined Github **6** years ago.
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with C#, ASP.NET, Oracle, Bootstrap, JavaScript, etc.
-- 🚀 &nbsp; I’m currently learning Full Stack Development.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/ErandaMadusanka).
-<!-- - 💬 &nbsp; Ask me about anything [here](https://github.com/iampavangandhi/iampavangandhi/issues/2)! I am happy to help. -->
+- 🛠 &nbsp; I’m currently working with C#, ASP.NET, Oracle, Bootstrap, JavaScript, etc...
+- 🚀 &nbsp; I’m currently learning Full Stack Development
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/ErandaMadusanka)
 - 📫 &nbsp; How to reach me: erandamadusanka@yahoo.com
+<!-- - 💬 &nbsp; Ask me about anything [here](https://github.com/iampavangandhi/iampavangandhi/issues/2)! I am happy to help. -->
 <!-- - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript. -->
 <!-- - 📝 &nbsp; Checkout my [Resume](https://github.com/iampavangandhi/iampavangandhi/blob/master/resume.pdf). -->
 
 ### My Absolute Favorites:
 
-- 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
-- 📰 &nbsp; Reading tech blogs whenever possible.
-- 🍕 &nbsp; Hackathons, meetups & tech events.
+- 💻 &nbsp; I love exploring new tech stack and building cool stuffs
+- 📰 &nbsp; Reading tech blogs whenever possible
+- 🍕 &nbsp; Hackathons, meetups & tech events
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -119,6 +119,7 @@ Joined Github **6** years ago.
 ### Operative System
 <!-- ![Ubuntu](https://img.shields.io/badge/Linux-1793D1.svg?style=for-the-badge&logo=linux&logoColor=white) -->
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![CentOS](https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 <!-- ### ⚙️ &nbsp;GitHub Analytics -->
