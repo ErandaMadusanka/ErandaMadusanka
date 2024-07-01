@@ -46,7 +46,7 @@ Joined Github **6** years ago.
 
 - Languages: &nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A.svg?&logo=javascript)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
   ![HTML](https://img.shields.io/badge/-HTML-05122A.svg?&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-05122A.svg?&logo=CSS3&logoColor=1572B6)
   ![C#](https://img.shields.io/badge/C%23-05122A.svg?logo=c-sharp)
