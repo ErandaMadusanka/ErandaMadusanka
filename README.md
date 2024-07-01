@@ -32,7 +32,7 @@ Joined Github **6** years ago.
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/ErandaMadusanka).
 <!-- - 💬 &nbsp; Ask me about anything [here](https://github.com/iampavangandhi/iampavangandhi/issues/2)! I am happy to help. -->
-- 📫 &nbsp; How to reach me: emsamarasinghe@gmail.com.
+- 📫 &nbsp; How to reach me: erandamadusanka@yahoo.com
 <!-- - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript. -->
 <!-- - 📝 &nbsp; Checkout my [Resume](https://github.com/iampavangandhi/iampavangandhi/blob/master/resume.pdf). -->
 
