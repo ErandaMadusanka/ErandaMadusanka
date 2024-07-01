@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 ![](https://img.shields.io/github/followers/ErandaMadusanka?color=4C1&logo=github)
 ![](https://img.shields.io/github/last-commit/milaan9/milaan9?label=Profile%20update&style=fflat-square)
 
-I'm a undergraduate in Computer Science 🎓 from UK Coventry University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️.
+I am a passionate learner, always eager to explore and work across various technologies and domains. I enjoy leveraging new technologies to solve real-life problems and have a keen interest in guiding and mentoring newcomers. Currently, I am focused on Web Development.
 
 Joined Github **6** years ago.
 
