@@ -46,10 +46,12 @@ Joined Github **6** years ago.
 
 - Languages: &nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A.svg?&logo=javascript)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
   ![HTML](https://img.shields.io/badge/-HTML-05122A.svg?&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-05122A.svg?&logo=CSS3&logoColor=1572B6)
-  ![PHP](https://img.shields.io/badge/PHP-05122A.svg?logo=php&)
   ![C#](https://img.shields.io/badge/C%23-05122A.svg?logo=c-sharp)
+  ![PL/SQL](https://img.shields.io/badge/PL%2FSQL-003B57?style=for-the-badge&logo=oracle&logoColor=white)
+  <!-- ![PHP](https://img.shields.io/badge/PHP-05122A.svg?logo=php&) -->
 
 - Frameworks and Libraries: &nbsp;
   ![React](https://img.shields.io/badge/-React-05122A.svg?&logo=react)
