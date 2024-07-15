@@ -14,6 +14,8 @@
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
 </div>
 
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="65" height="65" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/storybook-icon.svg" alt="icon" width="65" height="65" /></div>
+
 ### What I Do
 - **DevOps**: Building and maintaining scalable, reliable, and secure infrastructure.
 - **Data**: Managing, processing, and extracting valuable insights from large datasets.
