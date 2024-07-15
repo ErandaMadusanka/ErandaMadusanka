@@ -19,7 +19,8 @@
 
 ### What I Do
 - **Software Engineer**: Designing, building, and maintaining scalable applications using modern frameworks and libraries.
-- **Code Quality and Testing**: Applying best practices for code quality and testing, including unit testing, integration testing, and end-to-end testing.
+- **Code Quality**: Applying best practices to ensure high standards of code quality.
+- **Testing**: Implementing comprehensive testing strategies, including unit testing, integration testing, and end-to-end testing.
 - **Linux**: Extensive experience with Linux systems.
 
 ### Tech Stack
