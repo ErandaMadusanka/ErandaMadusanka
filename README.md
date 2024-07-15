@@ -1,6 +1,7 @@
 
 
-<div align="left">
+<section align="center">
+  <div align="left">
   <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
@@ -17,6 +18,7 @@
   <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
 </div>
+</section>
 
 ## Hi there 👋
 
