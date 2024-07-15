@@ -4,43 +4,13 @@ ErandaMadusanka/ErandaMadusanka is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 
-## Hey, I'm [Eranda](https://github.com/ErandaMadusanka), Great to see you here!
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/eranda-samarasinghe)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/eranda_madusank)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/eranda_samarasinghe/)
-[![Facebook Badge](https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat-square&logo=Facebook&logoColor=white)](https://facebook.com/eranda_samarasinghe/)
+<!-- ## Hey, I'm [Eranda](https://github.com/ErandaMadusanka), Great to see you here! -->
+## Hi there 👋, Great to see you here!
 
 ### Glad to see you here! 
 ![](https://visitor-badge.glitch.me/badge?page_id=ErandaMadusanka.ErandaMadusanka&style=flat-square&color=0088cc)
-![](https://komarev.com/ghpvc/?username=ErandaMadusanka)
-![](https://img.shields.io/github/commit-activity/m/ErandaMadusanka/ErandaMadusanka)
-![](https://img.shields.io/github/followers/ErandaMadusanka?color=4C1&logo=github)
-![](https://img.shields.io/github/last-commit/milaan9/milaan9?label=Profile%20update&style=fflat-square)
 
-I am a passionate learner, always eager to explore and work across various technologies and domains. I enjoy leveraging new technologies to solve real-life problems and have a keen interest in guiding and mentoring newcomers. Currently, I am focused on Web Development.
 
-Joined Github **6** years ago.
-
-#### Checkout my [bio.link](https://linkedin.com/in/eranda-samarasinghe) profile for more details.
-
-<img align="right" height="250" width="375" alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"/>
-
-### Talking about Personal Stuffs:
-
-- 🛠 &nbsp; I’m currently working with C#, ASP.NET, Oracle, Bootstrap, JavaScript, etc...
-- 🚀 &nbsp; I’m currently learning Full Stack Development
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/ErandaMadusanka)
-- 📫 &nbsp; How to reach me: erandamadusanka@yahoo.com
-<!-- - 💬 &nbsp; Ask me about anything [here](https://github.com/iampavangandhi/iampavangandhi/issues/2)! I am happy to help. -->
-<!-- - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript. -->
-<!-- - 📝 &nbsp; Checkout my [Resume](https://github.com/iampavangandhi/iampavangandhi/blob/master/resume.pdf). -->
-
-### My Absolute Favorites:
-
-- 💻 &nbsp; I love exploring new tech stack and building cool stuffs
-- 📰 &nbsp; Reading tech blogs whenever possible
-- 🍕 &nbsp; Hackathons, meetups & tech events
 
 ### 🛠 &nbsp;Tech Stack
 
