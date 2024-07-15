@@ -21,13 +21,14 @@
 </section>
 
 ## Frequently Used Tech
-  [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nestjs,nextjs,nodejs&perline=3)](https://skillicons.dev)
-  [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nestjs,nextjs,nodejs&theme=light)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,ts,react,git,docker,nodejs&perline=3)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=nextjs,nestjs,nodejs,nestjs,nextjs,nodejs&perline=3)](https://skillicons.dev)
+  <!-- [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nestjs,nextjs,nodejs&theme=light)](https://skillicons.dev)
   <p align="center">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
     </a>
-  </p>
+  </p>  -->
 
 ## Hi there 👋
 
