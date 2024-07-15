@@ -23,9 +23,10 @@
 ## Frequently Used Tech
   [![My Skills](https://skillicons.dev/icons?i=html,css,scss)](https://skillicons.dev)
   [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nestjs,nodejs)](https://skillicons.dev)
-  [![My Skills](https://skillicons.dev/icons?i=git,postgres,docker,nodejs&perline=3)](https://skillicons.dev)
-  
-  <!-- [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nestjs,nextjs,nodejs&theme=light)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=git,postgres,docker)](https://skillicons.dev)
+  <!--URL PARAM => &perline=3 , &theme=light -->
+
+  <!--
   <p align="center">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
