@@ -6,7 +6,6 @@ You can click the Preview link to take a look at your changes.
 
 <!-- ## Hey, I'm [Eranda](https://github.com/ErandaMadusanka), Great to see you here! -->
 ## Hi there 👋
-### Glad to see you here! 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=ErandaMadusanka.ErandaMadusanka&style=flat-square&color=0088cc)
 
