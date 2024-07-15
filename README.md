@@ -2,7 +2,13 @@
   <div align="center">
     <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
   <div>
-
+    
+## Frequently Used Tech
+  [![My Skills](https://skillicons.dev/icons?i=html,css,scss)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nestjs,nodejs)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=git,postgres,docker,webpack)](https://skillicons.dev)
+  <!--URL PARAM => &perline=3 , &theme=light -->
+    
 ## Hi there 👋
 
 ### What I Do
@@ -21,10 +27,6 @@
 ### Connect with Me
 I'm always excited to collaborate on new projects or discuss innovative ideas. Feel free to reach out!
 
-## Frequently Used Tech
-  [![My Skills](https://skillicons.dev/icons?i=html,css,scss)](https://skillicons.dev)
-  [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nestjs,nodejs)](https://skillicons.dev)
-  [![My Skills](https://skillicons.dev/icons?i=git,postgres,docker,webpack)](https://skillicons.dev)
-  <!--URL PARAM => &perline=3 , &theme=light -->
+
 
 
