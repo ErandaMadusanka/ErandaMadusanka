@@ -18,9 +18,8 @@
 ## Hi there 👋
 
 ### What I Do
-- **DevOps**: Building and maintaining scalable, reliable, and secure infrastructure.
-- **Data**: Managing, processing, and extracting valuable insights from large datasets.
-- **MLOps**: Streamlining the machine learning lifecycle to deploy and manage models efficiently.
+- **Software Engineer**: Designing, building, and maintaining scalable applications using modern frameworks and libraries.
+- **Code Quality and Testing**: Applying best practices for code quality and testing, including unit testing, integration testing, and end-to-end testing.
 - **Linux**: Extensive experience with Linux systems.
 
 ### Tech Stack
