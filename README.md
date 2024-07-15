@@ -25,9 +25,9 @@
 
 ### Tech Stack
 - **Languages**: JavaScript, TypeScript, C#, PL/SQL and more.
+- **Frameworks**: Next.js, NestJS, ASP.NET, Bootstrap.
 - **Libraries**: React.js, Redux, Material-UI and more.       
-- **Tools**: Git, Docker, Jest, Postman, Pactum, Webpack 5.
-- **Frameworks**: ASP.NET, NestJS, Next.js, Bootstrap, React Native.
+- **Tools**:Git, Docker, Webpack 5, Jest, Postman, Pactum.
 - **Databases/ORM**: Prisma.
 
 ### Connect with Me
