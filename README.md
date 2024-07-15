@@ -2,6 +2,7 @@
   <div align="center">
     <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
   <div>
+</section>
     
 ## Frequently Used Tech
   [![My Skills](https://skillicons.dev/icons?i=html,css,scss)](https://skillicons.dev)
