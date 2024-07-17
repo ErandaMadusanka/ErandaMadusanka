@@ -19,8 +19,6 @@
 - **Tools**:Git, Docker, Webpack 5, Jest, Postman, Pactum.
 - **Databases/ORM**: Prisma.
 
-### Connect with Me
-I'm always excited to collaborate on new projects or discuss innovative ideas. Feel free to reach out!
     
 ## Frequently Used Tech
   [![My Skills](https://skillicons.dev/icons?i=html,css,scss)](https://skillicons.dev)
